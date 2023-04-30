@@ -1,0 +1,4742 @@
+0 doin 5:20
+1 naturally 5:25
+2 folks 3:5 5:2
+3 dumb 5:1
+4 ain't 5:6 3:4 6:2
+5 learnin 5:3 1:1
+6 they're 0:7 9:4 3:3 4:2 5:1
+7 happy 5:20 1:14 0:8
+8 fuss 0:4
+9 schools 5:1
+10 books 0:2 5:1
+11 we've 0:5 9:4
+12 don't 0:125 5:1
+13 read 0:5 5:2 2:2
+14 write 5:6 8:1 4:1 1:1
+15 you're 3:108 0:45 9:23 5:7 4:3
+16 feller 1:7 5:2
+17 pale 8:1 5:1
+18 moonlight 5:1 4:1 3:1 2:1
+19 book 5:2
+20 find 0:23 1:3 3:2 5:1
+21 thinks 6:2 7:1 5:1
+22 moon 0:17 3:11 1:7
+23 mind 0:15 5:2 6:1
+24 uncle 5:3 8:1 1:1
+25 texas 5:1
+26 can't 5:47 0:36 3:1
+27 signs 5:1
+28 checks 3:4 5:1
+29 x's 5:1
+30 cash 5:1 3:1
+31 you'd 0:14 3:9 5:7 6:1 1:1
+32 raised 5:1
+33 family 0:4
+34 jed 5:1
+35 almanac 0:1
+36 drinkin 5:1
+37 he's 0:15
+38 spree 0:3
+39 sister 0:11
+40 sal 0:1
+41 who's 3:5 5:4 4:2 7:1
+42 musical 5:3 1:1
+43 lesson 5:3
+44 she's 0:27 1:8 9:1 6:1
+45 learned 8:2 5:1 2:1
+46 sing 0:38
+47 off-key 5:1
+48 private 0:3 9:1
+49 school 5:2 4:1
+50 pick 9:3 5:1
+51 penny 0:2 5:1 2:1
+52 stubborn 5:1
+53 mule 5:1
+54 professor's 0:1
+55 dome 5:1
+56 honey 1:12 5:7 9:4 3:1
+57 bee's 5:1
+58 home 0:44 1:1
+59 tiny 5:1
+60 baby 0:57 3:48 1:8 8:1 5:1
+61 brother 0:4 9:1 5:1
+62 sex 3:2 5:1
+63 grandpa 9:1 7:1 5:1
+64 bill 0:4 8:1
+65 lives 9:1 5:1 0:1
+66 hill 0:13
+67 married 0:8 3:4
+68 ninety-three 5:1
+69 lou 5:1
+70 sou 5:1
+71 shoppin 5:1
+72 stockings 5:1
+73 free 1:12 9:5 4:2 6:1 0:1
+74 cousin 5:2
+75 nell 0:1
+76 add 0:4 1:2
+77 spell 9:7 0:7 3:2
+78 left 9:2 0:2 8:1 2:1
+79 honors 5:1
+80 degree 5:1
+81 great 0:33 9:3
+82 big 9:9 5:6 1:3 0:3 8:1 3:1
+83 town 0:17 5:3 3:1
+84 clean 0:2 9:1 5:1
+85 stable 5:1
+86 evening 0:6
+87 gown 0:3
+88 mix 5:2
+89 vanderbilt's 5:1
+90 panties 5:1
+91 wearing 9:2 5:2
+92 kilts 0:1
+93 mother's 9:1 6:1 5:1
+94 carrie 5:2
+95 won't 0:27 9:1 2:1
+96 change 0:13 2:1
+97 doesn't 0:8 8:1
+98 marry 3:29 1:19 5:6 4:3
+99 children 9:5 1:5 5:3 4:2
+100 feel 9:15 0:12 1:11 5:1
+101 rose 0:6 9:4
+102 lots 0:11
+103 beaus 5:1
+104 parlor 5:1
+105 fine 0:6
+106 tree 0:11 6:1 4:1 3:1 1:1
+107 girl 1:33 0:13 5:7 9:5
+108 soft 0:5
+109 pink 0:6
+110 nursery 5:2
+111 call 0:21 1:12 3:1
+112 wear 5:9 0:4
+113 satins 5:2
+114 laces 5:2
+115 smell 5:3 1:2
+116 cologne 5:2 6:1
+117 nails 9:2 5:2
+118 polished 5:2
+119 hair 9:15 1:12 0:7 8:5 5:1
+120 she'll 5:6 4:4 9:2 6:1
+121 gardenia 5:2 4:1
+122 i'll 0:51 5:13 6:4 9:1 1:1
+123 stead 0:2 5:1 3:1
+124 flittin 5:2
+125 sittin 5:2
+126 purr 5:2
+127 kitten 5:2
+128 doll 1:3 5:2
+129 carry 5:3
+130 man 0:57 1:22 5:14
+131 gun 5:13 1:2 3:1
+132 mother 9:13 0:11
+133 frightened 5:1
+134 shotgun 0:1
+135 that's 0:44 3:6 5:5
+136 i'm 0:129 3:40 9:10 1:1
+137 wonderful 0:13 9:9 8:3
+138 shot 5:3 0:3 8:1
+139 i'd 0:27 5:5 9:4
+140 cactus 5:1
+141 practice 6:1 5:1
+142 day 0:68 1:12 4:10 6:1
+143 quick 9:3 1:2 5:1
+144 trigger 5:1
+145 targets 5:1
+146 bigger 0:3 4:1
+147 pinpoint 5:1
+148 number 3:4 5:1
+149 score 5:1 1:1
+150 lower 0:1
+151 cellar 5:2
+152 pistol 5:1
+153 sparkle 5:1 4:1
+154 crystal 5:1
+155 shine 9:1 8:1 5:1
+156 morning 4:20 0:11 1:2
+157 sun 0:13 5:1 4:1 1:1
+158 lose 0:18
+159 luster 0:2
+160 bronco 5:1
+161 buster 5:1
+162 battle 5:1 4:1
+163 someone's 7:1 0:1
+164 herd 5:1
+165 cattle 5:1
+166 steak 5:1
+167 job 6:2 3:2 5:1
+168 herder 5:1
+169 they'd 3:2 5:1
+170 holler 5:1
+171 bloody 5:1
+172 murder 5:1 2:1
+173 shoot 5:3 2:1
+174 male 1:3 5:1
+175 tail 5:1 1:1
+176 quail 5:1
+177 rabbit 0:1
+178 furrier 5:1
+179 grab 5:2 3:2 1:2
+180 coat 0:4 5:3
+181 warm 1:8 0:2 5:1
+182 lover 9:1 5:1 3:1
+183 cover 5:1
+184 gals 5:2 1:1
+185 umbrellas 0:1
+186 fellers 8:2 5:1
+187 rain 1:4 0:2 4:1 2:1
+188 blazin 5:1
+189 trifles 5:1
+190 rifles 5:1
+191 tom 3:9 1:3 0:1
+192 dick 3:16 5:1
+193 harry 3:9 4:5 0:1
+194 build 5:2 0:1
+195 house 9:13 5:2 1:2 0:1
+196 preacher 5:1
+197 made 0:10 5:2 4:1
+198 houses 5:1
+199 buckshot 5:1
+200 trousers 5:1
+201 hot 3:55 5:2 6:1 4:1
+202 there's 0:54
+203 business 5:11 3:8 8:1
+204 show 0:41 1:7 5:6
+205 appealing 5:2 0:1
+206 traffic 5:3
+207 feeling 0:13 5:1
+208 stealing 5:2
+209 extra 6:2 5:2
+210 bow 5:3 6:2 4:1
+211 people 0:26 9:8 1:3 7:2 6:1
+212 smile 0:12 5:3
+213 low 3:12 1:9 0:8 5:2 8:1 4:1
+214 yesterday 5:1
+215 told 0:5 3:4 8:1
+216 night 0:92 3:11 5:1
+217 open 0:9 9:1
+218 dressing 8:1 5:1
+219 room 0:6 6:1
+220 they've 5:1
+221 hung 5:1 2:1
+222 star 0:20 4:5
+223 let's 3:57 0:11 5:8 2:1
+224 cowboys 5:1
+225 wrestlers 5:1
+226 tumblers 5:1
+227 clowns 9:7 5:1
+228 roustabouts 5:1
+229 move 6:1 5:1 1:1
+230 dawn 5:2 1:1
+231 music 5:5 4:4 1:3 0:2 8:1 3:1
+232 spotlights 5:1
+233 towns 5:1
+234 baggage 5:1 2:1
+235 labels 5:1
+236 pasted 0:1
+237 sawdust 5:1
+238 horses 5:1 4:1
+239 towel 5:1
+240 you've 0:23 9:2 6:1
+241 hotel 5:1
+242 word 1:7 4:4 3:2 5:1
+243 started 0:6 6:2 8:1
+244 favorite 1:8 3:5 5:2 7:1 0:1
+245 died 0:5 9:1
+246 top 3:32 0:5 6:1 5:1 1:1
+247 parted 5:1
+248 broken-hearted 5:1
+249 angels 1:7 5:1 2:1
+250 jack 3:9 9:1 5:1
+251 attack 3:3 9:1 5:1 0:1
+252 money 1:5 0:3 9:2 5:1
+253 give 0:26 3:25 1:2
+254 back 0:35 4:2
+255 costumes 6:1 5:1
+256 scenery 5:1
+257 makeup 5:1
+258 props 5:1
+259 audience 5:1
+260 lifts 5:1
+261 headaches 5:1
+262 heartaches 5:1
+263 backaches 5:1
+264 flops 0:1
+265 sheriff 5:1
+266 who'll 5:1
+267 escort 0:1
+268 opening 9:1 8:1 0:1
+269 heart 0:50 1:13 5:1
+270 beats 5:1 4:1 0:1
+271 drum 7:3 9:1 5:1 0:1
+272 closing 5:1
+273 customers 9:1 5:1
+274 turkey 3:2 7:1 5:1
+275 fold 3:2 5:1
+276 stranded 5:1
+277 cold 0:4 9:1 3:1
+278 wouldn't 9:3 0:3 2:1
+279 sack 5:1
+280 gold 9:5 7:1 6:1 5:1
+281 lady 0:7 5:1 1:1
+282 you'll 0:33 5:2
+283 kindly 0:6 3:1
+284 step 5:6 8:1
+285 parapet 5:1
+286 marksmanship 5:1
+287 couldn't 0:5 5:2
+288 long 1:20 0:8
+289 distance 5:1
+290 spittin 5:1
+291 greater 0:2 5:1
+292 sooner 9:5 5:1
+293 partridge 5:1
+294 single 8:3 5:1 3:1
+295 cartridge 5:1
+296 sparrow 8:1 5:1
+297 arrow 0:3 5:2
+298 live 0:15 1:3
+299 bread 9:6 4:2 0:2 2:1
+300 cheese 6:1 5:1
+301 rat 5:1
+302 note 5:3 1:2 4:1
+303 reach 9:5 0:3 4:1
+304 higher 0:3 9:1 5:1 3:1
+305 buy 3:8 5:5 9:1 6:1
+306 cheaper 5:2
+307 fifty 5:1 0:1
+308 cents 5:4 8:1 6:1
+309 forty 5:1
+310 thirty 5:1 1:1
+311 twenty 0:4 1:2
+312 softer 5:2
+313 drink 3:8 5:2 1:2
+314 liquor 5:1
+315 faster 5:3
+316 flicker 5:1
+317 quicker 5:1
+318 sicker 5:1
+319 safe 9:2 5:2
+320 caught 7:3 0:3 8:1
+321 thought 0:17 9:1 8:1
+322 crook 5:1
+323 hold 0:4 7:3 5:2 6:1 4:1 3:1
+324 longer 5:2 0:2
+325 vest 5:1
+326 shoes 0:2 5:1
+327 hat 0:6 5:3
+328 jump 5:1
+329 hurdle 5:1
+330 girdle 0:1
+331 knit 5:1 4:1
+332 sweater 8:1 5:1
+333 fill 0:5 8:2
+334 bake 5:1 4:1 0:1
+335 pie 1:7 9:3 5:2 3:2
+336 sweeter 5:2
+337 sit 9:5 0:4 1:2
+338 cozy 5:1
+339 morris 5:2
+340 chair 0:4
+341 unhappy 5:1
+342 playing 3:2 5:1 0:1
+343 solitaire 5:1
+344 lonely 4:4 0:4 1:3
+345 lonesome 5:2 3:2 0:1
+346 watching 0:2 5:1
+347 clock 3:2 5:1
+348 shelf 5:1 1:1
+349 love 0:177 3:89 7:2
+350 rest 0:7
+351 weary 5:1
+352 head 0:15 1:6
+353 somebody's 5:1
+354 shoulder 1:3 5:1
+355 lay 6:4 0:4 3:1
+356 hate 3:20 0:11 6:1
+357 grow 0:7
+358 older 3:2 0:2 1:1
+359 puttin 5:7 1:2
+360 ritz 5:7 3:4
+361 well-to-do 5:1
+362 park 3:4 5:3
+363 avenue 5:17 7:2
+364 famous 5:1
+365 thoroughfare 5:1
+366 noses 0:1
+367 air 0:17 1:2
+368 high 1:16 0:15
+369 hats 5:1
+370 collars 5:1
+371 white 5:10 1:7 9:4 0:3
+372 spats 5:1
+373 dollars 5:1
+374 spending 5:1
+375 dime 5:1
+376 time 0:71 1:6 4:4 8:1 2:1
+377 blue 0:11 5:10 1:3 3:1
+378 fashion 3:25 5:2 0:2
+379 sits 5:2 9:1
+380 types 3:2 5:1
+381 pants 3:4 0:2 5:1
+382 stripes 5:1
+383 cutaway 5:1
+384 perfect 9:5 0:5 3:1
+385 fits 5:1
+386 dressed 0:3 5:1
+387 million 1:14 3:2 7:1 5:1
+388 dollar 3:2 5:1
+389 trouper 5:1
+390 mighty 1:2 8:1 5:1 3:1
+391 hard 1:2 5:1 0:1
+392 gary 5:1
+393 cooper 0:1
+394 super 5:1
+395 duper 0:1
+396 rockefellers 0:1
+397 walk 5:10 1:8 4:3
+398 sticks 5:1
+399 umberellas 5:1
+400 mitts 5:1
+401 cuba 5:11
+402 lively 5:1
+403 atmosphere 5:1 1:1
+404 everybody's 5:2
+405 year 0:5 6:2
+406 reason 0:8 5:1
+407 season 3:2 5:1
+408 opened 5:1
+409 july 3:6 5:2 8:1
+410 usa 0:1
+411 dry 0:3 8:1
+412 stay 0:14 1:8 9:7
+413 wine 4:4 5:2 1:1
+414 flowing 5:2 1:1
+415 dark 9:8 5:3
+416 eyed 5:2
+417 stellas 5:2
+418 light 0:8 9:4 5:3 1:3 7:1
+419 fella's 5:1 0:1
+420 panatellas 5:2
+421 gay 0:9 5:1 4:1 3:1
+422 plan 9:2 5:1 0:1
+423 trip 0:8 3:1
+424 havana 5:1
+425 hop 5:1
+426 ship 5:1 0:1
+427 c-u-b-a 5:2
+428 friend's 0:1
+429 advice 6:2 5:1 0:1
+430 drinking 3:2 5:1
+431 isn't 0:9 9:4 4:1
+432 nice 0:26 9:8 1:4
+433 price 0:4 9:2 3:1
+434 cuban 5:1
+435 longing 3:2 5:1
+436 haven't 5:8 0:4 6:1
+437 follow 0:9
+438 scotch 5:1
+439 rye 7:4 5:1
+440 table 7:2 4:2 5:1
+441 till 0:37
+442 skies 3:13 5:8
+443 smilin 0:2
+444 nothin 5:7 4:4 1:2
+445 bluebirds 5:2
+446 singin 0:2
+447 song 4:5 1:5 5:4 3:4
+448 shinin 5:2
+449 bright 0:14 1:10
+450 things 0:27 1:24 9:5
+451 goin 1:10 5:3 4:1
+452 noticing 5:2
+453 days 5:7 3:2 6:1
+454 hurrying 5:2
+455 fly 0:10 1:7
+456 syncopated 5:1
+457 rhythm 5:1
+458 begin 3:21 0:9 9:1
+459 sayin 8:2 5:1
+460 sir 9:32 4:4 0:2 5:1
+461 band 5:28 3:1
+462 grand 3:6 1:5 0:3 5:1
+463 professor 5:1
+464 land 3:10 0:6 5:5
+465 listen 0:16
+466 pep 5:1
+467 emerges 5:1
+468 middle 0:5 3:1
+469 jazzy 5:1
+470 fiddle 6:1 0:1
+471 chin 5:1 1:1
+472 clarinetter 5:1
+473 hear 0:46 5:37
+474 strain 5:1
+475 it's 3:85 0:55 9:38 5:2
+476 simply 0:15 3:6
+477 ruin 9:1 5:1
+478 hesitate 5:1
+479 glutton 5:1
+480 struttin 5:1
+481 ground 0:4 1:1
+482 wait 9:7 0:6 7:1
+483 sweetie 1:2 5:1
+484 steppin 5:6
+485 dance 5:10 4:2 9:1 8:1
+486 heaven 4:15 0:15 3:1
+487 heavens 0:4
+488 happen 3:10 5:2 9:1
+489 dear 3:40 0:12 9:11
+490 cheeks 5:2
+491 divine 0:5 3:1
+492 mine 0:14
+493 i've 0:70
+494 danced 5:1
+495 dozens 5:1
+496 thrill 0:5 3:2 2:1
+497 spring 3:12 1:10 5:1 4:1 0:1
+498 michigan 5:5
+499 born 4:7 0:7 8:1
+500 farm 5:5 3:1 1:1
+501 fish 0:3
+502 river 0:5 5:4
+503 flows 0:1
+504 field 5:1 1:1
+505 waving 7:1 5:1
+506 corn 0:9 9:1 8:1
+507 soul 0:3
+508 here's 3:2 9:1 5:1
+509 harm 5:2 1:1
+510 milk 9:10 5:2
+511 pail 5:2
+512 arm 5:2
+513 miss 0:9 3:8
+514 rooster 5:3 1:1
+515 use-ter 5:2
+516 wake 5:2 3:2 1:2 9:1
+517 city's 5:2
+518 pretty 9:35 0:13
+519 full 0:16 2:1 1:1
+520 charm 0:4
+521 wrong 5:4 1:3
+522 tonight 0:84 3:11 8:2
+523 bad 0:5 1:3 9:1
+524 good 0:37 9:26 1:10 8:1
+525 felt 5:1 4:1 1:1
+526 sunny 0:2 8:1
+527 knockin 5:1
+528 wood 0:4 5:1
+529 there'll 5:2
+530 smooth 5:2
+531 sailin 5:2
+532 trimmin 5:2
+533 sails 5:2 1:1
+534 tie 5:2 4:2 8:1 1:1
+535 tails 5:2
+536 scintillate 5:1
+537 date 1:3 5:2 7:1 3:1 0:1
+538 package 5:1
+539 waste 9:4 1:3 8:1 4:1 0:1
+540 sublime 0:2 5:1 2:1
+541 couple 0:6 5:1
+542 swells 5:2 0:1
+543 we're 0:12 9:5 5:4
+544 stop 0:18 2:2
+545 hotels 5:1
+546 prefer 5:1
+547 country 3:6 9:2 5:1
+548 city 1:4 0:2 9:1 5:1
+549 smells 9:2 0:1
+550 sports 5:1
+551 pride 0:2
+552 tennis 5:1
+553 courts 5:1
+554 june 1:16 9:2 5:1 4:1
+555 august 0:3 8:2
+556 cute 1:2 5:1
+557 shorts 5:1
+558 vanderbilts 5:2 0:2
+559 asked 3:2 5:1
+560 tea 0:3 1:2 5:1
+561 siree 5:2
+562 drive 5:2 7:1 4:1
+563 skate 5:1
+564 ice 5:1
+565 ride 3:9 0:8
+566 bicycle 5:1
+567 bike 5:1
+568 we'll 5:9 9:7 4:3
+569 avenue's 5:2
+570 wall 0:3 1:1
+571 street 1:4 5:2 3:2
+572 bankers 5:1
+573 plenty 5:8 9:1
+574 currency 5:1
+575 we'd 3:7 0:7
+576 forgot 5:2 3:1
+577 put 0:6 1:4 9:3 3:2
+578 key 9:1 5:1
+579 lads 2:2 5:1 1:1
+580 girls 4:11 1:8 0:6 9:1
+581 picture 5:1
+582 ads 5:1
+583 kissed 9:1 5:1
+584 cads 8:1 5:1
+585 waiting 9:2 4:2 5:1
+586 club 8:1 7:1 5:1
+587 rub 5:2 1:2 9:1 8:1
+588 sail 5:2 1:1
+589 yacht 0:4 5:2
+590 horse 5:1
+591 trolley 0:1
+592 car 5:3 4:1 3:1
+593 fare 0:5
+594 til 0:5 9:1 6:1
+595 swim 5:1 4:1
+596 lake 1:2 5:1
+597 luck 5:4 0:4
+598 gonna 0:14 9:13 1:11 5:1
+599 siren 6:1 5:1
+600 make 0:29 1:14
+601 start 0:14 1:1
+602 lucky 0:8 1:1
+603 lifetime 5:1
+604 capture 5:5
+605 sweet 3:13 0:12 1:4 7:1
+606 toddy 5:1
+607 dead 0:17 9:2
+608 body 2:2 5:1
+609 singing 5:5 4:5 1:5
+610 load 5:2 1:2
+611 dancing 5:4 9:3 1:2 2:1
+612 strolling 5:1
+613 road 5:2 3:1
+614 tender 0:3 3:2
+615 discover 5:1 0:1
+616 charms 5:1
+617 fancy 5:1 0:1
+618 taps 5:1
+619 collapse 5:1
+620 fall 3:26 0:10 1:2
+621 arms 0:7 1:6 5:2
+622 chance 0:7 5:1
+623 life 0:51 9:3
+624 wife 0:11 9:2
+625 learn 4:5 6:2 8:1 5:1
+626 thing 0:23 1:8
+627 stick 7:1 0:1
+628 romance 0:13
+629 christmas 5:7
+630 dreaming 5:3 3:1 0:1
+631 treetops 5:2
+632 glisten 5:2
+633 sleigh 5:2 1:2
+634 bells 0:14 4:2
+635 snow 4:3 5:2
+636 card 5:2
+637 merry 5:5 8:1 6:1 4:1
+638 christmases 5:2
+639 holiday 5:16 1:1
+640 ringing 5:2 0:1
+641 true 3:60 0:35 6:1
+642 calendar 5:3
+643 bringing 5:2
+644 holidays 5:3
+645 burdened 5:1
+646 trouble 9:7 5:1
+647 nerves 9:1 5:1
+648 thin 6:1 5:1 1:1
+649 inn 5:3 4:2
+650 noise 5:1 4:1
+651 affects 5:1
+652 squeaky 5:1
+653 violin 5:1
+654 kick 3:21 0:5
+655 cares 9:1 5:1
+656 stairs 3:2 5:1
+657 set 0:6 9:2
+658 a-whirl 5:1
+659 motor 5:1
+660 boy 1:9 0:4 9:3 6:1
+661 meets 1:3 6:1 5:1
+662 laid-up 5:1
+663 breakdown 0:1
+664 throw 8:2 4:2 5:1
+665 vitamin 5:1
+666 worse 0:4 2:1
+667 nurse 5:1
+668 ringin 5:1
+669 bringin 0:2
+670 easter 5:8
+671 parade 5:5
+672 bonnet 5:3 3:2
+673 frills 3:2 0:1
+674 grandest 5:1
+675 clover 5:1
+676 proudest 5:1
+677 fellow 0:6
+678 photographers 5:2
+679 snap 5:2 9:1
+680 rotogravure 5:2
+681 sonnet 3:2 5:1 0:1
+682 taking 5:2 6:1
+683 thankful 5:7
+684 shore 0:7
+685 caviar 0:2
+686 carpet 5:1
+687 floor 0:10 1:1
+688 eyes 0:20 1:2 7:1
+689 ears 5:2 3:1 1:1
+690 hug 5:2
+691 lips 0:6 1:1
+692 kiss 0:15 1:1
+693 adore 0:9 5:1
+694 small 9:8 5:2 1:1
+695 ten 6:3 5:2 1:1
+696 cent 0:3 5:1
+697 store 5:2 6:1 2:1
+698 play 0:20 5:11
+699 simple 5:6 4:2
+700 melody 5:6 3:4
+701 yore 5:1
+702 war 5:2
+703 hearts 0:6 1:1
+704 young 0:25 7:1 3:1
+705 firelight 5:1
+706 songs 8:1 5:1
+707 sung 8:1 5:1 4:1 1:1
+708 melodies 5:1
+709 memories 5:1 0:1
+710 cling 8:1 5:1
+711 sang 5:2
+712 old-fashioned 5:1
+713 harmony 5:2
+714 demon 5:2 1:1
+715 sets 5:2 3:2
+716 a-dreaming 5:2
+717 rag 5:3
+718 classical 5:2 3:2
+719 nag 5:2
+720 beautiful 0:10 1:5 9:1
+721 drag 5:2
+722 copy 5:2
+723 tune 0:14 2:1
+724 choppy 5:2
+725 applause 5:2 9:1
+726 fashioned 5:1
+727 ragtime 5:26
+728 wanna 6:2 5:1
+729 sigh 4:2 5:1 1:1
+730 tear 0:3 1:2 7:1 6:1
+731 alexander's 5:16
+732 bugle 5:2
+733 heard 0:20 1:5
+734 natural 5:1
+735 bestest 5:1 0:1
+736 lamb 1:4 5:2 0:2 8:1
+737 hand 0:11 7:2
+738 leader 5:4 8:2
+739 care 0:15 9:4 5:1 3:1
+740 swanee 5:7
+741 played 5:3 9:1
+742 raggy 5:1
+743 beat 5:1 1:1 0:1
+744 feet 0:8 3:3 9:1 8:1 5:1
+745 meet 0:12 1:3 7:1
+746 zee 5:3
+747 ach 5:1 0:1
+748 liebe 5:1
+749 shee 5:1
+750 ein 0:1
+751 zwei 0:1
+752 drei 5:1
+753 vier 5:1
+754 spieled 5:1
+755 das 5:1
+756 oompah 0:1
+757 pah 5:2
+758 hoot 5:5
+759 bonnie 4:3 5:1
+760 allons 5:3
+761 mon 5:1
+762 cher 5:1
+763 attention 9:1 5:1
+764 alexander 5:3 4:1
+765 oh-la-la 0:1
+766 coutez 5:2
+767 amis 5:2
+768 ooh 3:4 5:1
+769 touchã 5:1
+770 vraiment 5:1
+771 magnifique 5:1
+772 marchons 5:2
+773 oui 0:3 5:1
+774 certainement 5:1
+775 maestro 0:1
+776 hey 0:4 8:2 6:2
+777 cup 3:4 5:3 1:2
+778 coffee 5:6 9:1
+779 shelby's 5:2
+780 aerated 5:2
+781 vacuumized 5:1
+782 flavor 5:1
+783 bean 5:1
+784 delicious 3:11 0:2 6:1
+785 grinds 5:1
+786 instant 5:1
+787 perk 5:1
+788 drip 0:1
+789 piece 5:1
+790 remember 0:17 5:3
+791 stars 0:19 3:3
+792 vowed 5:1
+793 spot 5:1 2:1 1:1
+794 learnt 0:1
+795 lot 1:7 9:4 0:3 5:1
+796 promised 5:1 3:1
+797 forget 0:9 8:2
+798 surprised 5:4
+799 bench 5:1
+800 party 3:18 5:1
+801 ball 0:3 3:2 6:1 5:1
+802 admit 0:6 6:1
+803 real 1:14 9:1 8:1 6:1 2:1
+804 clambake 1:7
+805 we’re 9:12 1:5 8:1
+806 glad 1:3 0:3 3:1
+807 vittles 1:3
+808 bet 1:3 3:1
+809 company 1:2 7:1
+810 bellies 1:2 8:1
+811 feelin 1:7 6:1
+812 prime 1:3 4:1 2:1
+813 fust 1:1
+814 codfish 1:1
+815 chowder 1:1
+816 cooked 0:1
+817 iron 4:1 1:1
+818 kettles 8:3 9:1
+819 onions 1:1
+820 floatin 8:3
+821 curlin 8:1
+822 petals 8:1
+823 throwed 1:1
+824 ribbons 1:1
+825 salted 7:1
+826 pork 1:1
+827 england 1:3
+828 trick 7:2 6:2
+829 lapped 1:1
+830 clamshell 1:1
+831 tied 1:4
+832 bayberry 8:1
+833 oh-h-h 1:4
+834 raked 8:1
+835 red-hot 1:1
+836 lobsters 0:1
+837 driftwood 1:1
+838 fire 3:5 6:2 4:2 1:1 0:1
+839 sizzled 1:1
+840 crackled 1:1
+841 sputtered 1:1
+842 fitten 1:7
+843 fer 1:23 4:1
+844 choir 8:2 1:1 0:1
+845 slit 1:1
+846 peppered 7:1 6:1
+847 doused 0:1
+848 melted 1:1
+849 butter 1:1
+850 tore 8:1
+851 claws 1:1
+852 cracked 1:1
+853 teeth 1:3 0:3
+854 weren’t 1:1
+855 mood 9:2 8:2
+856 putter 1:1
+857 clams 0:3
+858 steamed 1:1
+859 rockweed 8:1
+860 poppin 1:1
+861 shells 8:1
+862 jest 1:11
+863 galloped 7:1
+864 gullets 1:1
+865 couldn’t 8:3 1:2
+866 oursel’s 1:1
+867 afore 8:1
+868 we’ll 1:11
+869 agen 8:1
+870 blow 3:21 1:16 9:1 2:1
+871 a-whalin 8:3 7:3 1:2
+872 a-sailin 1:4
+873 understand 0:10 1:2 6:1
+874 you’re 1:22 0:3 9:1
+875 lookin 4:3 1:3 9:1
+876 fun 1:16 0:10 3:4
+877 clap 1:1
+878 jail 3:2 4:1 1:1
+879 i’m 1:86 9:12
+880 shippin 7:1
+881 sea 1:11 4:3 0:3
+882 flip 1:3
+883 hook 1:2
+884 hip 1:1
+885 whale 7:1 1:1
+886 it’s 1:46 3:18 9:9 7:1
+887 hands 1:3
+888 wheel 1:2
+889 wind 3:6 1:5 4:1
+890 a-whistlin 1:1
+891 climb 0:5 4:1
+892 aloft 0:1
+893 chrysanthemum 1:1
+894 spout 1:1
+895 snout 1:1
+896 a-rockin 1:1
+897 boat 0:8
+898 bassinet 8:1
+899 hasn’t 8:3
+900 talk 1:18 0:9 4:7
+901 kind 0:14 8:2 1:1
+902 inclined 1:1 0:1
+903 wet 1:3 0:3
+904 geraniums 8:3
+905 winder 1:3
+906 hydrangeas 1:1
+907 lawn 1:1
+908 breakfast 8:1 4:1
+909 kitchen 7:1
+910 timid 8:3
+911 kisses 8:2
+912 headed 0:4
+913 hev 1:10
+914 pair 9:2 1:2 4:1 2:1
+915 lovers 1:4 8:1
+916 mightn’t 1:1
+917 comin 9:5 1:4 2:1
+918 twilight 1:1
+919 ketch 8:1
+920 herring 8:1
+921 hed 1:1
+922 dandle 1:1
+923 knee 1:2
+924 loved 1:22 0:3 6:1 3:1
+925 julie 1:5
+926 somethin 8:2
+927 jordan 1:2 7:1
+928 queer 0:2 1:1
+929 ain’t 1:20 9:3
+930 didn’t 1:4 6:1
+931 run 0:13 4:11 7:3 1:1
+932 wanta 1:5 8:1
+933 reckon 1:2 8:1
+934 keer 8:1
+935 t’choose 1:1
+936 t’stay 8:1
+937 don’t 1:37 9:7 8:3 3:2
+938 that’s 1:16 9:4
+939 you’d 1:5 8:2 3:2
+940 i’d 3:16 1:14 7:1
+941 y’ever 1:1 0:1
+942 y’musta 8:1
+943 walkin 4:1 0:1
+944 where’d 7:1
+945 special 1:6 8:1 6:1
+946 recall 7:1
+947 woods 9:43 7:1 6:1
+948 beach 9:2 1:2
+949 one—i 7:1
+950 funny 1:5 0:3 3:1
+951 kid 1:3 0:1
+952 keerful 1:1
+953 character 8:1
+954 y’see 1:1
+955 wouldn’t 1:6
+956 t’be 1:1
+957 sech 1:1
+958 stickler 8:1
+959 pertickler 8:1
+960 suppose 3:3 9:1 6:1 1:1
+961 scares 1:1
+962 thinkin 1:1 0:1
+963 cop 3:2 0:1
+964 paid 7:1
+965 difference 1:1
+966 you—even 1:1
+967 feel—or 1:1
+968 dunno 1:1
+969 i—how 1:1
+970 it’d 1:4
+971 be—if 8:1
+972 worked 8:1
+973 mill 3:3 8:1 1:1
+974 weavin 8:1
+975 loom 1:1
+976 gaze 3:5 4:4 0:4
+977 absentminded 8:1
+978 roof 9:2 0:1
+979 half 0:8 1:1
+980 shuttle’d 1:1
+981 tangle 8:1
+982 threads 1:1
+983 warp’d 1:1
+984 mixed 7:1
+985 woof 0:4
+986 ken 4:4 1:4
+987 exackly 7:1
+988 words 0:14 1:7 9:1
+989 easy 3:14 1:5 2:2
+990 round 8:3 0:2 9:1
+991 circles 7:2
+992 longin 8:2
+993 afraid 1:8 9:1 0:1
+994 shy 7:3 6:2 9:1 1:1
+995 golden 1:2
+996 chances 7:2
+997 pass 3:4 8:2
+998 leave 0:14 4:4 1:4 9:1 6:1
+999 mist 1:2 8:1 4:1
+1000 anyway—you 8:1
+1001 yes…i 1:1
+1002 blossoms 8:1 2:1 1:1
+1003 brings 3:6 1:1
+1004 can’t 1:10 0:3 9:1 6:1 3:1
+1005 sound—not 8:1
+1006 turn 1:7 0:6 3:4
+1007 leaf 8:1 3:1
+1008 wave 1:6
+1009 hittin 1:1
+1010 sand 1:3
+1011 tide’s 1:1
+1012 creepin 7:1
+1013 thief 7:1 6:1
+1014 stealin 1:1
+1015 heads 4:1 1:1
+1016 figger 8:1
+1017 figgered 1:1
+1018 important 8:1 0:1
+1019 specks 7:1
+1020 there’s 1:8 9:4 8:1
+1021 helluva 1:1
+1022 sky 9:10 3:8 1:8 4:4
+1023 sky’s 8:1
+1024 count 7:1
+1025 meetin 8:1
+1026 you—are 1:1
+1027 tryin 0:1
+1028 t’get 1:1
+1029 what’s 0:1
+1030 face 1:14 4:6 3:6 9:5
+1031 like—like 1:1
+1032 trusted 1:1 0:1
+1033 awful 9:5 3:2 6:1 1:1
+1034 kinda 1:6
+1035 scrawny 1:1
+1036 pickin 1:1
+1037 food 1:3 9:2
+1038 lovesick 1:1
+1039 guy 1:8 3:3 0:2
+1040 dress 9:4 1:2
+1041 dude 8:1
+1042 dickey 1:1
+1043 collar 0:3
+1044 foolish 0:1
+1045 worry 7:2 3:2
+1046 it—billy 0:1
+1047 who’s 7:1
+1048 worried 1:1
+1049 bein 1:2 7:1
+1050 theirselves 1:1
+1051 bustin 1:8 8:2 7:2
+1052 march 7:1
+1053 lion 1:1
+1054 a-whippin 7:1
+1055 water 4:1 1:1
+1056 bay 3:5 1:2
+1057 april 2:1 1:1
+1058 cried 0:3 9:2 7:1
+1059 stepped 8:1
+1060 promises 3:1 1:1
+1061 crowd 8:1 7:1
+1062 doubtin 1:1
+1063 thomases 1:1
+1064 predictin 8:1
+1065 summer’d 7:1
+1066 gum 1:1
+1067 y’ken 1:3 8:2
+1068 yer 1:4 8:2
+1069 trees 0:9 9:4 4:1
+1070 breeze 3:6 8:3 4:1
+1071 meadow 4:1 1:1
+1072 buds’re 8:1
+1073 outa 1:23
+1074 bushes 1:1
+1075 rompin 8:1
+1076 pushes 9:1 1:1
+1077 ev’ry 1:18
+1078 wheels 8:1
+1079 gettin 2:2 1:2 9:1
+1080 intense 8:1
+1081 virginia 7:2
+1082 creepers 8:1
+1083 huggin 8:1
+1084 bejeepers 7:1
+1085 mornin’-glories 1:1
+1086 fence 3:20 8:1
+1087 june—june—june 1:10
+1088 fresh 0:4
+1089 alive 1:2 9:1
+1090 sweetly 9:2 1:1
+1091 saplin’s 1:1
+1092 sap 1:1
+1093 he’s 9:7 1:6
+1094 found 0:5 1:3 3:2 8:1
+1095 junior 1:1
+1096 sister’s 7:1
+1097 lunier 1:1
+1098 kittenish 8:1
+1099 pap 1:4
+1100 ladies 0:11
+1101 men 3:22 4:8 1:8
+1102 payin 7:2
+1103 court 0:4 3:3
+1104 lotsa 1:1 0:1
+1105 ships 1:1
+1106 anchor 1:2
+1107 captains 1:1
+1108 hanker 1:1
+1109 comfort 1:2
+1110 port 1:4
+1111 makes 1:4 0:3 9:1
+1112 gleamin 8:1
+1113 sunlit 7:1
+1114 ocean 0:4
+1115 jacks 1:1
+1116 jills 8:1
+1117 a-swishin 1:1
+1118 wishin 0:1
+1119 gills 1:1
+1120 sheep 1:4
+1121 aren’t 1:3
+1122 sleepin 1:1
+1123 rams 7:1
+1124 chase 8:1
+1125 ewe 8:1 1:1
+1126 determined 8:1
+1127 there’ll 1:2
+1128 keepin 7:1
+1129 accounta 7:1
+1130 beaches 1:1
+1131 crowded 1:1
+1132 penobscot 1:1
+1133 augusty 7:1
+1134 boys 2:2 7:1 3:1 1:1
+1135 lusty 7:1
+1136 fight 1:3 0:2
+1137 flowers 1:4 0:3
+1138 seed 8:1
+1139 pleasant 4:1 1:1
+1140 riley 1:1
+1141 spoken 9:1 4:1 1:1
+1142 highly 1:1
+1143 ev’rybody 1:2
+1144 lead 9:3 3:1 1:1
+1145 father 9:9 1:8 0:4
+1146 growing 3:4 6:2 1:2
+1147 rivers 8:1
+1148 doesn’t 1:3
+1149 hundred 1:16 9:2 0:1
+1150 miracles 1:15
+1151 happening 1:5
+1152 agree 1:4 0:1
+1153 idle 7:1 1:1
+1154 poet 0:7 9:1
+1155 page 1:2 7:1
+1156 writes 1:1
+1157 brush 3:10 1:1
+1158 friend 9:7 3:2 1:2
+1159 notes 1:1
+1160 blend 7:1
+1161 suggested 8:1
+1162 thrush 0:1
+1163 soprano 1:1
+1164 reads 0:1
+1165 wrote 1:2 4:1
+1166 learns 1:1
+1167 puts 8:1 4:1
+1168 lovely 1:6 3:4 9:2 6:2
+1169 throat 1:2
+1170 suddenly 0:11 4:4
+1171 poem 8:1
+1172 singer 7:1
+1173 minute 9:2 4:1 1:1
+1174 yangtse 1:1
+1175 kiang 7:1
+1176 tiber 8:1
+1177 don 8:1
+1178 chungking 1:1
+1179 inches 1:3 9:1
+1180 tall 9:4 1:1
+1181 decides 8:1
+1182 rising 1:2 0:2
+1183 eastern 1:1
+1184 chop 1:28 0:4
+1185 suey 1:18
+1186 intelligent 1:2
+1187 mad 3:5 0:4 9:1 1:1
+1188 screwy 8:1
+1189 violins 1:1
+1190 trumpets 1:1
+1191 drums 1:1
+1192 sad 7:2 3:2 0:2 4:1
+1193 sour 8:2
+1194 honeydewy 1:1
+1195 east 7:1 3:1 0:1
+1196 west 3:5 0:2
+1197 swinging 1:2 7:1
+1198 nights 0:5
+1199 week 0:4 2:1
+1200 sammy 7:1
+1201 prepared 3:2 9:1 7:1 4:1
+1202 pleasure 8:1 6:1
+1203 ancient 1:3
+1204 chinese 8:2
+1205 delicacy 1:1
+1206 wang 7:3
+1207 ba-doowow 1:1
+1208 yah 1:2 7:1
+1209 sammy’s 0:1
+1210 offer 8:3
+1211 column 1:2 0:1
+1212 choose 9:2 6:1 1:1
+1213 msg 1:1
+1214 stunning 0:2 1:1
+1215 deliver 7:1 6:1
+1216 hungry 0:5
+1217 aiii 8:1
+1218 ate 7:1
+1219 hour 0:3
+1220 ago 7:5
+1221 wondering 8:1
+1222 wooden 7:1
+1223 plate 9:1 1:1
+1224 called 3:8 7:2 0:2
+1225 chopsticks 1:1
+1226 chop-chop-chop-chew-wah 1:2
+1227 they’re 1:2
+1228 chop-chop 1:1
+1229 squeeze 9:2 7:1
+1230 lift 9:4 0:2 4:1
+1231 mouth 1:1
+1232 chop-chop-chop 8:1
+1233 ooo-eee 1:1
+1234 dig 3:9 1:2
+1235 china 1:1
+1236 chew-ah 1:1
+1237 breath 1:1
+1238 earnestly 0:1
+1239 speak 4:7 7:1 2:1 1:1
+1240 weigh 0:1
+1241 rosy 8:1
+1242 future 3:7 1:4
+1243 bee 8:3
+1244 missus 3:4 7:1
+1245 depend 1:2
+1246 absolutely 4:4 1:3 8:1
+1247 guarantee 1:1 0:1
+1248 fail 8:1 4:1
+1249 disappoint 1:1
+1250 eat 0:3 3:1
+1251 litchi 7:1
+1252 nuts 1:1
+1253 cookies 1:1
+1254 bed 0:11
+1255 nutshells 7:1
+1256 crumbs 8:1
+1257 irritating 7:1 1:1
+1258 habits 1:1
+1259 you’ll 1:26 0:4 9:1 3:1
+1260 dread 7:1 3:1
+1261 cracking 7:1
+1262 thumbs 7:1
+1263 game 3:7 1:1
+1264 hunter 1:1
+1265 met 0:7 9:1 2:1 1:1
+1266 grandma 7:2
+1267 attractive 9:1 8:1 0:1
+1268 devoted 8:1
+1269 mama 3:3 8:1 1:1
+1270 disagree 7:2
+1271 side 0:4
+1272 schnookie 1:1
+1273 doubt 8:2
+1274 am—i’m 8:1
+1275 talking 7:2 6:1
+1276 darling 0:18 3:1
+1277 dope 7:3
+1278 innocent 8:1 7:1
+1279 gaga 1:1
+1280 khan 7:1
+1281 ali 1:1
+1282 aga 4:1 1:1
+1283 honorable 1:1
+1284 gentle 7:2
+1285 jewel 8:1
+1286 chinatown 7:1
+1287 fan 1:6 8:1
+1288 tan 1:6
+1289 fannie 8:9
+1290 leaving 9:1 1:1
+1291 goodbye 0:17 4:6 3:2
+1292 danny 8:2 1:1
+1293 two-timing 1:1
+1294 dan 0:1
+1295 loves 3:4 1:2
+1296 bye 1:8 9:2
+1297 icebox 8:1
+1298 leftovers 8:1
+1299 moo 1:2
+1300 goo 7:1 0:1
+1301 gai 1:2
+1302 pan 8:2
+1303 manny 7:2
+1304 hope 1:8 0:5 9:1
+1305 vagabond 1:1
+1306 sailor 7:1
+1307 friends 8:1 3:1
+1308 sport 3:2 1:2
+1309 action 6:1 0:1
+1310 storm 1:4
+1311 resting 7:1
+1312 adored 0:2
+1313 gliding 1:4
+1314 memoree 1:4
+1315 colleen 7:1
+1316 ireland 1:1
+1317 fiery 1:1
+1318 red 9:6 7:1 6:1 1:1
+1319 gave 0:4 6:3 3:3 1:2
+1320 green 9:3 7:3 6:1
+1321 ahead 9:2 1:1
+1322 sweden 8:1
+1323 grew 1:1
+1324 fond 3:1 1:1
+1325 stately 0:1
+1326 scandinavian 1:1
+1327 type 1:4 3:1 0:1
+1328 buxom 8:1
+1329 blue-eyed 8:1
+1330 blonde 8:3
+1331 worshipped 7:1
+1332 barcelona 1:1
+1333 chick 1:1 0:1
+1334 picked 4:1 0:1
+1335 castanets 7:1
+1336 clicking 8:1
+1337 clicked 7:1
+1338 friendly 1:3 2:1
+1339 ma’mselle 8:1
+1340 oo-la-la 1:1
+1341 paree 1:1
+1342 twas 4:1 1:1 0:1
+1343 cast 8:1 2:1
+1344 casablanker 8:1
+1345 grecian 8:1
+1346 holland 7:1
+1347 hemisphere 7:1
+1348 grant 3:2 1:2
+1349 san 1:2 6:1
+1350 francisco 1:2
+1351 california 8:2
+1352 u.s.a 8:2
+1353 where’s 8:1
+1354 place 4:7 1:5 9:4
+1355 encouraging 7:1
+1356 caressing 1:2
+1357 sincere 1:2
+1358 father’s 7:2
+1359 son 9:5 1:3 0:1
+1360 proud 8:2 3:1
+1361 silhouette 1:1
+1362 curvy 1:1
+1363 girlish 3:2 8:1
+1364 gait 8:1
+1365 hips 1:3
+1366 swively 1:1
+1367 swervy 8:1
+1368 frilly 8:1
+1369 joe 3:1 1:1
+1370 john 7:1
+1371 billy 7:1
+1372 filly 1:1
+1373 ready 0:4 8:1
+1374 race 4:2 8:1 1:1
+1375 brand-new 1:2
+1376 hairdo 1:2
+1377 eyelashes 8:3 1:1
+1378 curl 1:3 3:2
+1379 float 8:1 1:1
+1380 clouds 0:4 8:1
+1381 enjoy 1:9 3:2 6:1 0:1
+1382 pearl 8:1
+1383 lap 7:1 0:1
+1384 sends 1:2
+1385 drool 7:3
+1386 dresses 1:4
+1387 lace 7:2
+1388 telephone 1:3
+1389 hours 4:8 9:3 8:2
+1390 pound 7:1 6:1 1:1
+1391 cream 1:4
+1392 strictly 1:2
+1393 female 1:4
+1394 brave 1:6 7:1
+1395 who’ll 1:2
+1396 smoulder 1:1
+1397 silken 7:1
+1398 falls 1:4 0:2
+1399 ivory 0:1
+1400 complimentary 1:1
+1401 whistle 1:4
+1402 greets 1:1
+1403 bikini 8:1
+1404 glower 1:1
+1405 bristle 1:1
+1406 whistle’s 1:2
+1407 meant 3:3 1:2
+1408 she’s 1:13 9:4
+1409 waitin 7:2 1:1
+1410 standoffish 8:1
+1411 buggy 8:1
+1412 i’ll 1:6 9:2
+1413 imitation 8:1
+1414 crawfish 8:1
+1415 hole 7:1
+1416 c’n 1:11 7:1
+1417 hide 0:4 9:2
+1418 heared 1:3
+1419 kickin 7:1
+1420 capers 1:1
+1421 kansas 1:7
+1422 print 1:1
+1423 papers 1:1
+1424 talkin 1:4
+1425 foot 1:1
+1426 orta—sorta 0:1
+1427 faithful 1:2 2:1
+1428 stories 8:2
+1429 bout 1:2
+1430 lost 6:2 0:2 8:1
+1431 bloomers—rumors 8:1
+1432 tempest 1:1
+1433 pot 9:1 1:1
+1434 sound 3:5 1:4 6:2
+1435 sow 1:1
+1436 wild 0:8 1:5
+1437 oat 1:1
+1438 cut 9:1 1:1
+1439 shenanigans 0:1
+1440 save 1:3 9:2
+1441 money—don’t 8:1
+1442 gamble 7:1
+1443 backroom 8:1
+1444 flannigan’s 1:1
+1445 gentleman 3:2 9:1 8:1
+1446 mentions 1:1
+1447 intentions 8:1
+1448 nuthin 1:5
+1449 cain’t 1:16
+1450 half-and-half 1:2
+1451 one-woman 7:1
+1452 home-lovin 1:1
+1453 complete 0:3 8:1 4:1
+1454 slippers 0:2
+1455 pipe 3:2 1:1 0:1
+1456 nuthin’s 7:2
+1457 whut 1:11
+1458 git 7:2 1:2
+1459 sump’n 7:1
+1460 uh-uh 1:2
+1461 painted 1:1
+1462 purty 8:2
+1463 supposin 1:1
+1464 spit 1:2
+1465 image 8:1
+1466 wise 3:3 1:1
+1467 gotta 9:5 1:5 4:2
+1468 realize 1:1 0:1
+1469 frown 8:1 2:1
+1470 late 3:14 1:4 9:3 0:1
+1471 sleep 3:3 0:2 9:1
+1472 sleepy 8:1
+1473 ado 3:2 8:1
+1474 annie 8:1
+1475 question 6:2 1:1
+1476 knowin 8:1
+1477 knowed 8:1
+1478 whut’s 8:1 1:1
+1479 stories—and 8:1
+1480 girls’re 7:1
+1481 mustn’t 8:1
+1482 pit 7:1
+1483 feller—i 8:1
+1484 fergit 0:1
+1485 jist 1:6 8:1
+1486 turrible 1:1
+1487 fix 1:3 4:1
+1488 le’s 8:1
+1489 orta 1:3
+1490 nix 1:1
+1491 person 1:2 4:1 0:1
+1492 smack 7:1
+1493 sorta 7:1
+1494 fool 0:16 1:1
+1495 lights 0:4 4:1
+1496 prissy 7:1
+1497 quaint 1:1
+1498 thet 8:2
+1499 faint 1:1
+1500 flirty 1:1
+1501 starts 3:8 1:5
+1502 s’posin 1:2
+1503 lips’re 7:1
+1504 cherries 7:1
+1505 roses 9:5 1:2 8:1
+1506 berries 8:1
+1507 sweeter’n 1:1
+1508 die 3:4 0:1
+1509 talks 8:1 3:1
+1510 eye 0:3 1:2
+1511 disserpoint 8:1
+1512 beau 1:1
+1513 ack 8:1
+1514 refined 3:2 0:2
+1515 cool 3:2 7:1
+1516 a-settin 1:1
+1517 velveteen 8:1
+1518 settee 8:1
+1519 resist 0:4 1:1
+1520 romeo 3:2 1:2
+1521 sombrero 8:1
+1522 chaps 0:1
+1523 laps 1:1
+1524 inside 0:6 9:2
+1525 snaps 7:1
+1526 encore 1:1
+1527 refrain 3:2 7:1
+1528 kissin’s 8:1
+1529 mistletoe 1:1
+1530 coy 8:1
+1531 catch 1:3 4:2 9:1 7:1
+1532 havin 1:4
+1533 wrestlin 1:1
+1534 match 0:1
+1535 won 0:4 8:1
+1536 undertow 1:1
+1537 complaint 7:1
+1538 restraint 1:1
+1539 trapped 7:1
+1540 tricked 8:1
+1541 hoodblinked 1:1
+1542 hambushed 1:1
+1543 folded 1:1
+1544 scrapin 1:1
+1545 minutes 1:2
+1546 bird 1:3 9:2 7:1
+1547 woodland 7:1
+1548 gypsy 7:1
+1549 child 9:9 0:6 7:1 1:1
+1550 unattached 1:1
+1551 flick 9:1 1:1
+1552 cigar 1:1
+1553 ashes 9:2 1:1
+1554 rug 1:1
+1555 dunk 7:1
+1556 doughnut 8:1
+1557 jug 4:4 1:1
+1558 minding 1:1
+1559 oughter 1:1
+1560 meanin 1:1
+1561 farmer’s 1:1
+1562 daughter 1:2 3:1
+1563 muzzle 1:1
+1564 gittin 1:1
+1565 scandal 1:6
+1566 outrage 1:6
+1567 gal 1:1
+1568 gits 1:1
+1569 husband 7:2 0:2
+1570 today 0:20 3:16 6:1
+1571 mistake 7:1
+1572 contract 7:1
+1573 honest 1:2 2:1
+1574 lie 1:2 7:1 6:1
+1575 hell 3:7 4:2 7:1
+1576 manhood 7:1
+1577 blot 8:1
+1578 wink 7:1
+1579 mess 9:3 8:2 0:1
+1580 heck 8:1
+1581 making 8:2 3:2 9:1
+1582 bubbles 7:1
+1583 neck 7:1
+1584 farmer 8:1 3:1
+1585 chicken 0:1
+1586 coop 1:1
+1587 property 1:1
+1588 hen 0:3 3:1
+1589 problem 1:5 9:1
+1590 solve 1:5 3:2
+1591 revolution 8:1
+1592 revolve 8:1
+1593 frid’y 7:1
+1594 sattidy 7:1
+1595 l’arned 1:1
+1596 idy 8:1
+1597 modren 8:1
+1598 world 0:25 9:19 1:4 8:3 3:2
+1599 counted 1:1
+1600 gas 1:1
+1601 buggies 8:1
+1602 theirsel’s 7:1
+1603 tuck 0:1
+1604 nen 7:1
+1605 ear 0:8 7:1
+1606 bell 0:2 4:1 3:1 1:1
+1607 strange 3:6 1:4 4:1
+1608 womern 8:2
+1609 yeah 6:2 8:1
+1610 ev’rythin’s 7:2 0:1
+1611 they’ve 7:4
+1612 fur 1:4 8:1 7:1
+1613 built 7:1
+1614 skyscraper 8:1
+1615 buildin 7:1
+1616 dream 1:14 9:9 0:9
+1617 magic-lantern 8:1
+1618 radiator 1:1
+1619 heat 8:1 2:1 0:1
+1620 privies 7:1
+1621 yes,sir 7:2
+1622 theayter 1:1
+1623 burleekew 1:1
+1624 dandy 1:1
+1625 fat 9:2 8:1
+1626 swear 9:1 3:1 0:1
+1627 padded 1:1
+1628 heel 8:1
+1629 act 8:1
+1630 began 0:3 3:2 4:1
+1631 peel 1:1
+1632 proved 1:1
+1633 ev’rythin 7:1
+1634 creaks 8:2
+1635 door 0:7 9:3 1:2 4:1
+1636 squeaks 1:2
+1637 mouse 0:3 1:1
+1638 a-nibblin 1:2
+1639 broom 1:2
+1640 cobweb 1:1
+1641 slants 1:1
+1642 beam 1:1
+1643 crost 1:1
+1644 shadder 7:1
+1645 a-dancin 8:1 0:1
+1646 better’n 1:2
+1647 smart-aleck 8:1
+1648 cowhand 8:1
+1649 yeller 8:1
+1650 acrost 1:1
+1651 flicks 1:1
+1652 pack 2:1 1:1
+1653 lies 9:2 7:2
+1654 bride 8:1 2:1
+1655 canary 8:1
+1656 yellow 9:4 6:2 1:1 0:1
+1657 cloud 1:4 0:1
+1658 i’ve 1:17 0:3
+1659 cockeyed 1:2
+1660 optimist 1:2
+1661 immature 8:1
+1662 incurably 1:1
+1663 rant 1:1
+1664 rave 1:1
+1665 bellow 7:1
+1666 human 2:1 1:1
+1667 falling 1:7
+1668 whip-poor-will 1:1
+1669 selling 4:2 3:2 1:1
+1670 telling 1:3 3:2 9:1
+1671 bowl 1:1
+1672 jell-o 8:1
+1673 smart 3:2 1:2
+1674 stuck 8:1 0:1
+1675 expect 7:1 2:1
+1676 protestations 1:1
+1677 faith 9:1 8:1
+1678 they’ll 1:1
+1679 naive 7:2
+1680 babe 9:4 8:1
+1681 fable 7:1
+1682 fearlessly 8:1
+1683 argue 4:1 1:1
+1684 doubts 8:2
+1685 loudly 1:1
+1686 flatly 1:1
+1687 stand 0:10 7:1
+1688 flat 4:2 7:1
+1689 ashamed 6:2 1:1
+1690 reveal 7:1
+1691 world-famous 1:1
+1692 corny 1:3
+1693 normal 0:3
+1694 blueberry 6:1 1:1
+1695 conventional 8:2
+1696 dither 1:1 0:1
+1697 lump 9:1 1:1
+1698 trite 8:1
+1699 daisy 1:1
+1700 cliché 7:1
+1701 coming 9:10 7:1
+1702 bromidic 7:1
+1703 moon-happy 1:1
+1704 pouring 0:1
+1705 dew 1:2
+1706 flag 0:1
+1707 fourth 0:1
+1708 excuse 1:1
+1709 expression 1:1
+1710 mos 1:2
+1711 island 1:5 6:1
+1712 foggy 1:1
+1713 dey 8:1 7:1
+1714 lak 8:1
+1715 bali 1:8
+1716 ha’i 1:8
+1717 whisper 1:3 3:2
+1718 hopes 3:1 1:1
+1719 dreams 1:7 4:4
+1720 bloom 9:2 7:2
+1721 hillside 7:1 4:1
+1722 streams 1:1
+1723 someday 1:2
+1724 sunshine 1:3 9:1
+1725 stickin 1:1
+1726 f’um 7:1
+1727 low-flyin 1:1
+1728 clear 0:7 3:4 9:2
+1729 lily 7:1
+1730 makin 8:1
+1731 toy 3:2 8:1
+1732 peekin 1:1
+1733 t’rough 1:1
+1734 branches 7:1
+1735 countin 8:1
+1736 ripples 1:1
+1737 golly 9:1 8:1
+1738 cuss 1:1
+1739 den 8:1
+1740 dainty 1:1
+1741 figure 2:1 0:1
+1742 applaud 1:1
+1743 narrow 8:1 7:1
+1744 broad 8:1 7:1 1:1
+1745 pounds 9:2 8:2
+1746 bun 1:9 6:1
+1747 speakin 8:2
+1748 sixty 1:2
+1749 inch 1:2 9:1
+1750 packed 8:1 1:1
+1751 dynamite 1:2
+1752 curly 1:2
+1753 curls 7:2 0:2 9:1
+1754 hurly-burly 1:2
+1755 pips 8:2
+1756 twirly 1:2
+1757 whirly 1:2
+1758 booby 1:2 8:1
+1759 trap 1:2 0:1
+1760 sonny 1:2
+1761 cookie 1:1
+1762 cook 3:1 1:1
+1763 finish 6:1 1:1
+1764 seat 7:1
+1765 hall 9:1 4:1 1:1
+1766 dinner 3:2 1:1
+1767 chestnut 8:1
+1768 wash 8:7
+1769 send 0:13
+1770 patch 1:1
+1771 push 0:1
+1772 cancel 1:1
+1773 yea 1:1
+1774 separate 8:1
+1775 beams 1:1
+1776 range 1:1
+1777 roll 8:3 4:1
+1778 oh-ho 7:3
+1779 dinah 1:1
+1780 laugh 0:3 1:2 7:1
+1781 comics 1:1
+1782 root 7:1
+1783 teams 7:1
+1784 weep 0:1
+1785 wood’s 8:1
+1786 butterfly 8:1
+1787 strong 1:2 8:1
+1788 egg 1:1
+1789 petal 7:1
+1790 flower 0:1
+1791 sweeten 7:1
+1792 turning 8:1
+1793 dull 7:1
+1794 fishy 8:1
+1795 glints 1:1
+1796 gleams 1:2
+1797 switch 7:1
+1798 drop 3:2 0:2 1:1
+1799 nearest 7:1
+1800 ditch 8:1
+1801 washed 1:6
+1802 callin 8:1
+1803 hogs 1:1
+1804 ioway 1:35
+1805 sniff 0:2 7:1
+1806 fragrant 8:1
+1807 whiff 1:1
+1808 you’ve 0:2
+1809 nose 1:3 0:2
+1810 owe 1:23 3:1
+1811 bred 1:4
+1812 fed 1:4
+1813 mention 1:3 3:2 0:1
+1814 barley 1:4
+1815 wheat 1:4
+1816 ham 1:4
+1817 beef 1:4
+1818 strawberry 1:4
+1819 jam 1:4 3:1
+1820 pay 0:6
+1821 californ-i-ay 7:1
+1822 shame 0:7 7:2 1:1
+1823 gosh-darn 1:3
+1824 native 1:2
+1825 state 9:1 7:1
+1826 seed—of 8:1
+1827 grain 8:1
+1828 breeze—that 1:1
+1829 blew 1:1
+1830 drop—of 7:1
+1831 drip—of 8:1
+1832 wayne 8:1
+1833 owin 8:1 1:1
+1834 idaho 1:1
+1835 cryin 7:1
+1836 heath 8:1
+1837 lip 3:2 1:1
+1838 bawlin 0:1
+1839 she’ll 1:1 0:1
+1840 cuff 1:1
+1841 abel 1:1
+1842 roam 1:2 4:1 0:1
+1843 yay 7:1
+1844 i-o-w 1:2
+1845 i-o-i-o 1:1
+1846 i-o-w-a 1:1
+1847 isn’t 1:8 9:2
+1848 other’s 1:1
+1849 swapping 8:1
+1850 romantic 0:4 1:1
+1851 carousing 1:1
+1852 holding 0:3
+1853 custom 7:1
+1854 vows 8:1
+1855 admitting 8:1
+1856 intend 7:1
+1857 bust 0:1
+1858 laughs 1:2
+1859 kidding 1:2
+1860 haven’t 1:5
+1861 hunch 8:2
+1862 mccoy 1:2
+1863 sentimental 3:6 1:2
+1864 tripe 1:1
+1865 dewy-eyed 8:1
+1866 juliet 0:2 8:1
+1867 love’s 7:1
+1868 eternal 1:1
+1869 tether 1:1
+1870 dignified 8:1
+1871 anymore 0:2
+1872 mope 7:1
+1873 pretending 1:1
+1874 knowing 6:1 1:1
+1875 restless 8:1
+1876 willow 7:1 3:1 0:1
+1877 windstorm 1:1
+1878 jumpy 1:1
+1879 puppet 1:1
+1880 string 1:1
+1881 fever 1:1 0:1
+1882 starry-eyed 7:1
+1883 vaguely 1:1
+1884 discontented 7:1
+1885 nightingale 0:3 9:1
+1886 wishing 8:2 4:1
+1887 walking 3:4 0:2 8:1
+1888 hearing 9:2 7:1 1:1 0:1
+1889 busy 1:1
+1890 spider 7:1
+1891 spinning 9:1 7:1
+1892 daydreams 1:1
+1893 giddy 1:1
+1894 swing 1:1
+1895 crocus 7:1
+1896 rosebud 9:1 8:1
+1897 robin 1:1
+1898 wing 9:1 1:1
+1899 gay—in 7:1
+1900 melancholy 7:2
+1901 handsome 6:3 8:1
+1902 combination 1:1
+1903 ronald 8:1
+1904 colman 1:1
+1905 charles 1:1
+1906 boyer 1:1
+1907 bing 1:1
+1908 margy…my 7:1
+1909 margy 8:1 1:1
+1910 ruby 8:1
+1911 finger 8:1
+1912 boo-boo 1:2 7:1
+1913 ya-da 0:1
+1914 da-dee 8:1
+1915 air-conditioned 1:1
+1916 patent-leather 1:1
+1917 farmhouse 1:1
+1918 ultra-modern 1:1
+1919 scientific 7:1
+1920 streamlined 0:1
+1921 clutter 1:1
+1922 veranda 1:1
+1923 creepers—nothing 1:1
+1924 useless 8:1
+1925 september 8:1
+1926 flying 3:4 0:3
+1927 bound 1:2 9:1
+1928 he’ll 1:3
+1929 throwing 1:2
+1930 earth 1:5 9:1
+1931 aglow 1:2
+1932 birds 0:7 6:2 1:1
+1933 sight 0:9 1:1
+1934 shiny 8:1
+1935 silvery 1:1
+1936 belt 8:1
+1937 fate 3:2 0:2 7:1 1:1
+1938 warning 3:2 1:1
+1939 surprise 1:1
+1940 standing 9:4 3:4 8:2
+1941 remarked 7:1
+1942 wanted 0:4 9:2
+1943 nodded 1:1
+1944 breathlessly 8:1
+1945 day’s 8:1
+1946 adventures 0:1
+1947 times 3:4 9:2 1:2
+1948 confusion 8:2
+1949 conclusion 8:1 1:1
+1950 concluded 1:2
+1951 facts 1:2
+1952 student 1:1
+1953 studied 0:2 7:1
+1954 procure 8:1
+1955 puzzlement 1:2
+1956 instance 0:2
+1957 women 9:16 3:2 7:1 4:1 0:1
+1958 educate 8:1
+1959 lines 0:3 6:1 1:1
+1960 respect 1:1
+1961 wives 0:3
+1962 concubines 8:1
+1963 won’t 9:1 8:1
+1964 king 4:9 9:3 1:2
+1965 knew 0:6 3:4 4:1 2:1 1:1
+1966 brain 3:2 8:1 0:1
+1967 forever 3:12 0:10
+1968 fro 7:1 1:1
+1969 willfully 8:1
+1970 unmovable 7:1
+1971 join 3:1 1:1
+1972 nations 1:1
+1973 alliance 1:1
+1974 allies 8:1 1:1
+1975 weak 8:1
+1976 power 7:1 6:1
+1977 protect 0:2 1:1
+1978 danger 8:1
+1979 trusting 8:1 0:1
+1980 seldom 9:1 1:1
+1981 wishes 1:2
+1982 trust 1:2 9:1 8:1
+1983 excepting 7:1
+1984 fishes 1:1
+1985 puzzle 8:1
+1986 quickly 8:1
+1987 prove 3:1 1:1
+1988 ah-h-h 1:2
+1989 matter 0:5 7:1 4:1 2:1
+1990 living 9:4 7:1 6:1
+1991 kingdom 6:2 8:1
+1992 cetera 1:2
+1993 lord 3:2 0:2 1:1
+1994 buddha 1:2
+1995 teacher 1:2
+1996 pupils 1:1
+1997 taught 2:3 7:1
+1998 learning 1:4
+1999 forgive 1:1
+2000 boast 1:1
+2001 expert 8:1
+2002 subject 2:1 1:1
+2003 putting 1:2
+2004 nicely 1:2
+2005 precisely 1:2
+2006 noticed 1:2
+2007 breezy 8:2
+2008 smelled 1:1
+2009 summer 0:13
+2010 streaked 4:1 1:1
+2011 sleeping 9:1 8:1
+2012 silent 1:1
+2013 part 0:8 6:1
+2014 troubles 9:1 8:1 3:1
+2015 close 9:4 0:4 1:3 3:1
+2016 feels 8:1 4:1
+2017 wings 1:4 3:2
+2018 heels 1:1
+2019 trance 7:1
+2020 cry 3:6 8:2 4:2
+2021 dreamed 1:8 4:2
+2022 joy 0:6 7:1 6:1 1:1
+2023 glow 2:3 1:2 4:1
+2024 enjoyed 8:1 1:1
+2025 view 0:2 9:1 1:1
+2026 awake 2:1 1:1
+2027 looked 0:9
+2028 smiled 7:1
+2029 thinking 0:4 2:1
+2030 erect 1:1
+2031 suspect 1:1
+2032 shivering 1:1
+2033 strike 1:1
+2034 careless 1:1
+2035 pose 7:1 3:1
+2036 result 8:1
+2037 deception 1:1
+2038 fear 9:6 3:2 2:1 1:1
+2039 happiness 1:1
+2040 convinces 8:1
+2041 whistling 9:1 1:1
+2042 hills 1:3 0:1
+2043 thousand 7:1
+2044 years 0:6
+2045 hears 7:1 4:1
+2046 rise 3:4 1:1
+2047 chime 4:4 9:1 2:1 1:1
+2048 flies 9:2 1:1
+2049 church 4:13 8:1
+2050 brook 1:1
+2051 trips 1:1
+2052 stones 1:1
+2053 lark 3:4 0:3
+2054 pray 4:1 1:1
+2055 blessed 8:1
+2056 climbs 1:1
+2057 scrapes 1:1
+2058 waltzes 8:1
+2059 mass 3:2 8:1
+2060 whistles 4:1 1:1
+2061 stair 7:1 6:1
+2062 underneath 3:4 8:1 4:1
+2063 wimple 8:1
+2064 curlers 8:1
+2065 abbey 1:2
+2066 chapel 1:1
+2067 penitence 8:1
+2068 meal 3:4 1:1
+2069 firmly 0:2
+2070 maria's 8:1
+2071 asset 8:1
+2072 behalf 1:1
+2073 maria 1:7 9:4
+2074 pin 1:2
+2075 means 3:10 9:2 8:2
+2076 flibbertigibbet 1:2
+2077 will-o'-the-wisp 7:2
+2078 clown 3:28 8:2
+2079 moonbeam 1:2
+2080 confused 9:1 7:1
+2081 focus 7:1
+2082 bemused 8:1
+2083 unpredictable 7:1
+2084 weather 3:5 7:1
+2085 flighty 0:1
+2086 feather 7:1 2:1
+2087 she'd 9:16 8:1
+2088 out-pester 7:1
+2089 pest 8:1
+2090 hornet 1:1
+2091 nest 3:1 1:1
+2092 whirling 8:1
+2093 dervish 1:1
+2094 whirl 0:1
+2095 riddle 8:1
+2096 headache 1:1
+2097 angel 3:4 1:1
+2098 exciting 9:1 1:1
+2099 wildly 0:1
+2100 rejoicing 1:1
+2101 what's 9:13 3:6 1:2
+2102 longed 7:1 3:1 0:1
+2103 adventure 1:2
+2104 dared 8:1 6:1
+2105 facing 7:1 3:1
+2106 scared 0:4 9:3 8:3 4:1
+2107 captain 1:1
+2108 fearsome 1:1
+2109 worries 1:1
+2110 seeking 7:1 1:1
+2111 courage 8:1 7:1
+2112 lack 0:4
+2113 serve 9:2 8:1
+2114 reliance 1:1
+2115 mistakes 1:1
+2116 defiance 0:1
+2117 worthy 8:1
+2118 bring 9:5 3:2 0:2
+2119 problems 7:1
+2120 confidence 1:13
+2121 they'll 3:11 4:2 8:1 1:1
+2122 test 1:1
+2123 likesomehow 1:1
+2124 impress 1:1
+2125 firm 8:1
+2126 bless 3:2 1:1
+2127 strength 0:2 8:1
+2128 numbers 1:1
+2129 wealth 3:2 1:1
+2130 peaceful 7:1
+2131 slumbers 1:1
+2132 healthy 1:1
+2133 sings 4:8 0:7
+2134 empty 3:2 7:1 0:1
+2135 stage 8:1 0:1
+2136 sixteen 7:2 1:2
+2137 seventeen 1:6
+2138 beware 3:1 1:1
+2139 canny 1:1
+2140 careful 9:2 1:1
+2141 brink 1:1
+2142 fellows 7:1 1:1
+2143 line 3:4 7:1
+2144 eager 9:1 7:1
+2145 rogues 8:1
+2146 totally 3:8 1:2
+2147 unprepared 1:2
+2148 wiser 1:2
+2149 eighteen 1:2
+2150 willingly 1:1
+2151 bachelor 8:1 0:1
+2152 dandies 7:1
+2153 drinkers 8:1
+2154 brandies 1:1
+2155 raindrops 8:1 0:1
+2156 whiskers 1:2
+2157 kittens 7:2
+2158 copper 7:1 1:1
+2159 woolen 7:2
+2160 mittens 1:2
+2161 brown 7:2
+2162 paper 1:2
+2163 packages 1:2
+2164 strings 1:2
+2165 cream-colored 7:2
+2166 ponies 7:2
+2167 crisp 7:2
+2168 apple 1:2
+2169 strudels 8:2
+2170 doorbells 1:2
+2171 schnitzel 8:2
+2172 noodles 8:2
+2173 geese 1:2
+2174 satin 1:2
+2175 sashes 1:2
+2176 snowflakes 7:1 1:1
+2177 silver 3:2 1:2
+2178 winters 1:2
+2179 melt 1:2
+2180 springs 8:1 1:1
+2181 dog 1:2 6:1 4:1
+2182 bites 1:2
+2183 stings 8:1 7:1
+2184 like[hook 1:1
+2185 changed 9:3 3:2 2:1
+2186 rewound 3:2
+2187 puritans 3:2
+2188 shock 3:4 0:2
+2189 landed 0:2
+2190 plymouth 3:6
+2191 rock 3:5 4:1 0:1
+2192 stem 0:2
+2193 landing 0:5
+2194 olden 3:2
+2195 glimpse 3:1 0:1
+2196 stocking 0:2
+2197 shocking 3:2
+2198 god 3:3 0:2 4:1
+2199 authors 3:2
+2200 four-letter 3:2
+2201 writing 3:2
+2202 prose 3:2
+2203 driving 3:2
+2204 fast 0:3
+2205 cars 3:1 0:1
+2206 bars 0:3
+2207 hymns 3:2
+2208 bare 3:2
+2209 limbs 3:2
+2210 mae 3:2
+2211 undressed 3:2
+2212 oppose 3:2
+2213 ev'ry 4:10 3:2
+2214 intruding 0:2
+2215 nudist 3:2
+2216 parties 0:2
+2217 studios 3:2
+2218 ned 3:2
+2219 mclean 3:2
+2220 russian 3:2
+2221 reds 3:2
+2222 rockefeller 3:2
+2223 hoard 3:2
+2224 max 3:2
+2225 gordon 3:2
+2226 produce 0:3
+2227 shows 9:2 3:2 0:2
+2228 good's 3:2
+2229 black's 3:2
+2230 day's 0:2 9:1
+2231 gent 3:4
+2232 chateaus 3:2
+2233 jitneys 0:2
+2234 whitneys 0:2
+2235 clothes 0:4 3:3 9:2
+2236 sam 3:2
+2237 goldwyn 0:2
+2238 conviction 3:2
+2239 instruct 3:2
+2240 anna 3:3 0:1
+2241 sten 3:2
+2242 diction 3:2
+2243 mendl 3:2
+2244 handspring 3:2
+2245 toes 0:2
+2246 shocks 3:4
+2247 knocks 3:2
+2248 blues 3:2 9:1
+2249 news 3:2
+2250 pains 3:3
+2251 brains 3:2
+2252 radios 3:2
+2253 trimmings 3:2
+2254 broadcast 3:2
+2255 abed 3:2
+2256 simmons 3:2
+2257 franklin 3:2
+2258 let’s 3:4
+2259 bluebird 3:2
+2260 bluebell 3:2
+2261 bottom 3:7 0:4
+2262 dell 3:2 9:1
+2263 ring 3:4
+2264 ding 4:4 3:4
+2265 clerk 3:2
+2266 work 3:4 6:1
+2267 nature 3:6 4:2
+2268 bees 3:2
+2269 educated 3:2
+2270 fleas 3:4 9:1
+2271 spain 0:4 3:1
+2272 upper 0:3 3:2
+2273 lithuanians 0:2
+2274 letts 3:1 0:1
+2275 dutch 3:3 0:1
+2276 amsterdam 3:2
+2277 finns 0:2
+2278 siam 3:2
+2279 siamese 0:2
+2280 twins 3:2
+2281 argentines 0:2
+2282 boston 3:6
+2283 beans 9:7 3:2
+2284 sponges 3:2
+2285 oysters 3:2
+2286 oyster 3:15
+2287 cape 9:7 0:2
+2288 cod 0:2
+2289 gainst 3:2
+2290 lazy 3:5 9:1
+2291 jellyfish 3:2
+2292 electric 0:2
+2293 eels 3:2
+2294 shad 3:4
+2295 waiter 3:2
+2296 roe 3:1 0:1
+2297 shallow 0:2
+2298 shoals 3:2
+2299 english 4:7 3:2
+2300 soles 3:1 0:1
+2301 goldfish 0:2
+2302 privacy 3:2
+2303 bowls 3:2
+2304 likemosquitos 0:2
+2305 forbid 3:2
+2306 katy 3:2
+2307 dragonflies 3:2
+2308 reeds 3:2
+2309 centipedes 3:2
+2310 ladybugs 3:2
+2311 calls 0:6
+2312 moths 3:2
+2313 rugs 3:2
+2314 moth 3:2
+2315 balls 0:2
+2316 locusts 3:2
+2317 over-educated 3:2
+2318 chimpanzees 3:2
+2319 zoo 3:2
+2320 courageous 0:2
+2321 kangaroos 3:2
+2322 giraffes 3:2
+2323 sly 3:2
+2324 heavy 3:6 4:1
+2325 hippopotami 0:2
+2326 sloths 3:2
+2327 hang 3:2
+2328 twigs 3:2
+2329 effort 3:2
+2330 guinea 3:2
+2331 pigs 3:2
+2332 admits 0:2
+2333 bears 3:2
+2334 pits 3:2
+2335 pekingeses 3:2
+2336 beneath 4:2 3:2
+2337 darlin 3:46 0:6
+2338 why's 3:2
+2339 roaring 3:2
+2340 traffic's 3:2
+2341 boom 3:2 9:1
+2342 silence 3:2 2:2
+2343 yearning 3:4
+2344 burning 0:3 3:2 4:1
+2345 torment 3:2
+2346 spend 3:3
+2347 de-lovely 3:14
+2348 delightful 3:12 4:2
+2349 glance 0:3 9:1 3:1
+2350 swell 3:25 9:2
+2351 murmuring 3:4
+2352 chickadee 3:4
+2353 delectable 3:2 6:1
+2354 delirious 3:4
+2355 dilemma 3:2
+2356 delimit 3:1 0:1
+2357 deluxe 3:1 0:1
+2358 sudden 4:3 3:2
+2359 urge 0:2 3:1
+2360 ditty 3:4
+2361 invokes 0:2
+2362 control 3:1 0:1
+2363 desire 3:5 0:2
+2364 curse 0:5 9:3
+2365 crucify 3:1 0:1
+2366 verse 3:4
+2367 tin-pantithesis 3:2
+2368 spare 3:3 6:1 0:1
+2369 pain 3:4 0:1
+2370 skip 0:2
+2371 darn 3:50
+2372 sol 3:2
+2373 likeso 3:2
+2374 it's...it's 3:2
+2375 story 3:4 9:1 6:1
+2376 practically 3:2
+2377 leaves 9:4 3:2
+2378 exception 0:2
+2379 case 3:2
+2380 quiet 3:2
+2381 fighting 3:2
+2382 vainly 3:2
+2383 ennui 3:2
+2384 fabulous 3:3 0:1
+2385 champagne 4:6 3:3 0:2
+2386 mere 3:2
+2387 alcohol 3:2
+2388 cocaine 3:2
+2389 bore 3:6 0:3
+2390 terrifically 3:2
+2391 plane 3:5
+2392 idea 3:4
+2393 mysterious 3:2
+2394 taunt 3:2
+2395 hurt 3:3
+2396 deceive 3:2
+2397 desert 3:4
+2398 i....you 3:2
+2399 poetic 3:1 0:1
+2400 pathetic 3:2 0:1
+2401 chest 3:2
+2402 unexpressed 0:2
+2403 parading 3:2
+2404 serenading 3:2
+2405 bar 3:4 2:4
+2406 it'll 3:2
+2407 colosseum 3:2
+2408 louvre 3:2
+2409 museum 3:2
+2410 symphony 3:2
+2411 strauss 3:2
+2412 bendel 0:2
+2413 shakespeart 3:2
+2414 mickey 0:2
+2415 nile 3:1 0:1
+2416 tow'r 3:1 0:1
+2417 pisa 3:4
+2418 mona 0:2
+2419 lisa 3:6
+2420 worthless 3:1 0:1
+2421 check 3:2
+2422 total 0:2
+2423 wreck 3:2
+2424 flop 3:4
+2425 mahatma 3:2
+2426 ghandi 0:2
+2427 napolean 3:2
+2428 brandy 0:2 3:1
+2429 purple 3:2
+2430 national 3:2
+2431 gallery 3:2
+2432 garbo's 3:2
+2433 salary 3:2
+2434 cellophane 3:2
+2435 derby 3:2
+2436 winner 3:2
+2437 balloon 0:2
+2438 fated 3:2
+2439 pop 3:3 4:1
+2440 coolidge 3:2
+2441 nimble 3:1 0:1
+2442 tread 3:4
+2443 fred 3:2
+2444 astaire 0:2
+2445 o'neill 3:2
+2446 drama 0:3
+2447 whistler's 3:1 0:1
+2448 camembert 3:4
+2449 likeyou're 3:2
+2450 inferno's 3:2
+2451 dante 0:2
+2452 durante 3:2
+2453 french 0:6 3:3
+2454 trop 3:2
+2455 waldorf 3:2
+2456 salad 3:2
+2457 berlin 3:2
+2458 ballad 3:2
+2459 master 0:2
+2460 mrs 9:5 0:5
+2461 aster 3:2
+2462 pepsodent 3:2
+2463 steppes 3:2
+2464 russia 3:2
+2465 roxy 0:2
+2466 usher 3:2
+2467 lout 3:2
+2468 sale 3:16
+2469 belong 3:2
+2470 shop 9:2 3:2
+2471 gazing 3:3
+2472 wayward 3:4
+2473 ways 3:2 0:1
+2474 smirk 3:2
+2475 appetizing 3:4
+2476 unspoiled 3:2
+2477 slightly 0:2 6:1
+2478 soiled 3:2
+2479 sample 3:2
+2480 supply 3:2 9:1
+2481 paradise 3:3 0:1
+2482 poets 3:3
+2483 childish 3:2
+2484 wares 3:1 0:1
+2485 beguine 3:18
+2486 tropical 3:2
+2487 splendor 3:2
+2488 memory 3:2
+2489 evergreen 3:1 0:1
+2490 orchestra's 3:2
+2491 palms 3:2
+2492 swaying 0:2
+2493 past 0:8 6:1
+2494 endeavor 3:2
+2495 clutches 3:2
+2496 swearing 3:2
+2497 promising 0:2
+2498 moments 3:2
+2499 rapture 3:2
+2500 serene 3:2
+2501 disperse 3:2
+2502 joys 4:3 3:2 9:1
+2503 tasted 3:2
+2504 wasted 3:2
+2505 remain 0:5 6:1
+2506 ember 3:2
+2507 custom-tailored 3:2
+2508 vet 3:4
+2509 asks 3:2
+2510 begins 0:5
+2511 pet 3:3 6:1
+2512 hooray 3:2
+2513 boss 3:2
+2514 middle-class 3:2
+2515 madman 3:2
+2516 mack 3:2
+2517 planning 3:2 9:1
+2518 cadillac 0:2
+2519 tycoon 3:1 0:1
+2520 steel 3:2
+2521 includes 3:2
+2522 deal 3:1 0:1
+2523 accept 6:1 3:1 0:1
+2524 dazzlin 0:2
+2525 diamond 3:2
+2526 clip 3:4
+2527 rip 3:2
+2528 nay 3:2
+2529 oilman 3:2
+2530 tex 0:2
+2531 keen 3:2
+2532 likethere's 3:1 0:1
+2533 wealthy 3:1 0:1
+2534 hindu 3:2
+2535 priest 3:4 9:3
+2536 wolf 3:2
+2537 stray 3:6 9:1 0:1
+2538 lush 3:2
+2539 portland 3:2
+2540 ore 3:2
+2541 milwaukee 3:2
+2542 mister 3:18 9:1
+2543 fritz 3:4
+2544 moves 3:2
+2545 schlitz 3:2
+2546 harris 3:4
+2547 plutocrat 3:2
+2548 cheek 4:4 3:1 0:1
+2549 pat 3:4 2:1
+2550 paris 3:10
+2551 bébé 3:2
+2552 mais 3:2
+2553 suis 3:4
+2554 toujour 3:4
+2555 fidèle 0:4
+2556 ohio 3:2
+2557 thorne 3:4
+2558 morn 3:2
+2559 cornered 3:2
+2560 hay 3:2 4:1
+2561 gable 3:4
+2562 clark 3:2
+2563 sable 3:1 0:1
+2564 anchors 3:2 4:1
+2565 aweigh 3:2
+2566 wasting 3:2
+2567 precious 3:2
+2568 blame 3:2
+2569 idolize 3:2
+2570 waken 3:2 0:2
+2571 eggs 3:1 0:1
+2572 bacon 3:2
+2573 carefree 3:2 9:1
+2574 worth 0:2 9:1 3:1
+2575 fires 3:2
+2576 coo 3:5 0:1
+2577 thrive 3:2 9:1 6:1
+2578 cottage 3:2 9:1
+2579 everytime 3:8
+2580 gods 3:2 0:1
+2581 finer 3:4
+2582 major 3:5
+2583 minor 3:4
+2584 evah 3:2
+2585 clan 3:2 4:1 2:1
+2586 forgotten 3:3
+2587 unrequited 3:2
+2588 sounds 3:2 4:1
+2589 pure 6:6 0:2 9:1
+2590 soap 3:2
+2591 opera 3:2 0:1
+2592 tomorrow 4:5 3:3
+2593 frocks 3:2
+2594 broads 3:2
+2595 furs 3:2
+2596 rocks 3:1 0:1
+2597 gaity 0:2
+2598 like[dexter 3:2
+2599 exquis 3:2
+2600 domestic 3:2
+2601 brilliant 3:2 9:1
+2602 chap 0:2
+2603 glass 0:3 4:1
+2604 blanche 3:2
+2605 avalanche 3:2
+2606 finished 3:2
+2607 kid's 3:2
+2608 guts 0:3
+2609 mimsie 3:2
+2610 starr 0:2
+2611 pinched 3:2
+2612 astor 3:2
+2613 sauced 3:2
+2614 stoned 3:2
+2615 wonderland 3:2
+2616 rare 9:3 3:3 0:1
+2617 baba 3:2
+2618 rhum 0:2
+2619 bababababum 3:1 0:1
+2620 crooning 3:2
+2621 chum 3:2 0:1
+2622 collide 3:4
+2623 mars 3:4
+2624 swellegant 0:4
+2625 elegant 3:4 4:1
+2626 health 3:2 4:1
+2627 nah 3:2
+2628 lets 0:2
+2629 bon 3:2
+2630 ami 3:2
+2631 liberty 3:2
+2632 fraternity 3:2
+2633 refill 3:4
+2634 kinsey 3:6
+2635 report 3:6
+2636 average 3:5 0:1
+2637 prefers 3:6
+2638 temperature 3:6
+2639 thermometer 3:6
+2640 sizzling 3:2 0:2
+2641 adam 3:4 2:1
+2642 madam 3:8
+2643 tongiht 3:2
+2644 pitch 3:6
+2645 woo 3:4
+2646 likeaccording 3:2
+2647 lovey-dovey 3:4
+2648 break 0:4
+2649 rule 3:4
+2650 pillow 3:2 0:1
+2651 repeat 3:8
+2652 gob 3:2
+2653 squab 3:2
+2654 marine 3:2 9:1
+2655 queen 0:4
+2656 g.i 3:2
+2657 cutie 0:2
+2658 dorothy 0:2
+2659 parker 3:2
+2660 boyfriend 0:2
+2661 thee 3:3
+2662 columbus 3:2
+2663 announced 3:2
+2664 bounced 3:1 0:1
+2665 isabelle 3:2
+2666 abelard 3:2
+2667 heloise 3:1 0:1
+2668 romeo's 3:2
+2669 fact 3:3 4:1
+2670 crazy 3:2 9:1
+2671 flings 3:2
+2672 rings 3:2
+2673 flights 3:2
+2674 gossamer 3:2
+2675 bit 0:8
+2676 end 4:5 6:3 3:3
+2677 painting 3:2
+2678 aware 3:4 6:1
+2679 affair 3:6
+2680 good-bye 3:2
+2681 amen 3:2 9:1
+2682 hoping 3:2 2:1
+2683 skin 3:10 0:1
+2684 deep 3:4 9:3
+2685 sacrifice 3:2
+2686 sake 0:5 2:2
+2687 spite 3:2
+2688 voice 3:2 2:1
+2689 repeats 3:4
+2690 silly 3:3 9:1 6:1 4:1
+2691 win 0:6
+2692 mentality 0:2
+2693 reality 3:2
+2694 mystifies 3:6
+2695 pow'r 3:6
+2696 hypnotize 3:6
+2697 neath 3:5 0:2
+2698 voodoo 3:6
+2699 wond'ring 3:2
+2700 soothing 3:2 9:1
+2701 like[looloo 3:2
+2702 window 3:4 9:2
+2703 flight 3:2
+2704 thoughts 3:2
+2705 slumber 3:4
+2706 fade 0:2
+2707 dim 3:4 6:1 4:1
+2708 rim 3:4
+2709 chill 3:4
+2710 led 3:9 0:2
+2711 reached 0:2 3:1
+2712 charming 9:6 3:4
+2713 age 3:2 0:1
+2714 puberty 3:2
+2715 feminine 4:1 3:1 0:1
+2716 typically 3:2
+2717 shuberty 0:2
+2718 multitude 0:2
+2719 departed 3:2
+2720 raising 3:5
+2721 heir 0:2 3:1
+2722 compare 0:2 3:1
+2723 milano 3:1 0:1
+2724 momo 3:2
+2725 pictures 3:2
+2726 scriptures 3:2
+2727 duomo 3:2
+2728 carolina 3:2
+2729 lina 3:2
+2730 peddling 3:2
+2731 pizza 3:2
+2732 streets-a 3:2
+2733 taormina 3:2
+2734 firenze 3:1 0:1
+2735 alice 3:2
+2736 itty-bitty 3:2
+2737 pity 0:2 9:1
+2738 palace 3:2
+2739 lucretia 3:2
+2740 scandalous 3:2
+2741 doings 3:2
+2742 ruins 3:2
+2743 pompeii 3:2
+2744 marriage 3:2
+2745 like(bridge 0:2
+2746 rebecca 3:2
+2747 becky-wecky-oh 3:2
+2748 cruising 3:2
+2749 amusing 3:2 6:1
+2750 ponte 3:2
+2751 vecchio 3:2
+2752 fedora 3:2
+2753 virago 3:2
+2754 missed 3:2
+2755 gangster 3:2
+2756 chicago 3:2
+2757 venetia 3:2
+2758 chat 0:5
+2759 stinking 3:1 0:1
+2760 palazzo 3:1 0:1
+2761 meaning 9:2 3:2
+2762 leaning 3:2
+2763 tower 3:2 9:1
+2764 oft 3:2
+2765 nuptial 3:2
+2766 bliss 3:2 9:1
+2767 quarter 3:2
+2768 shrew 3:2
+2769 suntanned 3:2
+2770 windblown 3:2
+2771 honeymooners 3:2
+2772 par 3:2
+2773 guardian 3:4
+2774 starry 3:4
+2775 wide 3:5
+2776 evenin 3:4
+2777 murmur 0:5
+2778 cottonwood 3:4
+2779 loose 3:5
+2780 straddle 3:4
+2781 saddle 3:4
+2782 western 3:4
+2783 wander 3:4 4:1
+2784 yonder 3:4
+2785 mountains 3:3 0:1
+2786 ridge 3:4
+2787 commences 3:4
+2788 senses 3:4
+2789 hobbles 3:4
+2790 fences 3:4
+2791 doo 3:18
+2792 cayuse 3:2
+2793 likei 0:2
+2794 papa 3:2
+2795 shakespeare 3:10
+2796 society 3:3 0:1
+2797 poetry 3:2
+2798 quote 3:2
+2799 ease 0:4
+2800 aeschylus 3:2
+2801 euripides 3:2
+2802 ravin 3:2
+2803 bard 3:2
+2804 stratford 3:2
+2805 avon 0:2
+2806 quoting 3:2
+2807 wow 3:2
+2808 declaim 3:2
+2809 othella 3:2
+2810 fella 0:3
+2811 blond 3:2
+2812 respond 3:1 0:1
+2813 flatter 3:2
+2814 tony 0:3 6:1
+2815 cleopatterer 3:2
+2816 fights 3:2 9:1
+2817 mussing 3:2
+2818 nussing 3:2
+2819 kow-tow 3:8
+2820 british 0:4
+2821 ambessida 0:2
+2822 crack 3:3
+2823 troilus 3:2
+2824 cressida 3:2
+2825 tike 3:4 4:2
+2826 behavior 3:2
+2827 heinous 3:2
+2828 coriolanus 3:2
+2829 thinkst 0:2
+2830 thou 3:10 2:2 0:2
+2831 odds 3:2
+2832 bodkins 3:1 0:1
+2833 misbehave 3:16
+2834 chaperon 3:2
+2835 world's 3:2
+2836 contagious 3:2
+2837 outrageous 3:2
+2838 eve's 3:2
+2839 teasin 3:2
+2840 didn't 0:5 4:3 2:1
+2841 apples 3:2
+2842 lovebirds 0:2
+2843 twould 3:2
+2844 event 0:2
+2845 nineteen 3:2
+2846 abide 0:2 3:1
+2847 maiden 0:4
+2848 husbands 3:2
+2849 boring 9:2 3:2
+2850 bother 3:3 9:1
+2851 democracy 3:2
+2852 athlete 3:2
+2853 manner 0:2 4:1
+2854 bold 3:2
+2855 brassy 3:2
+2856 chesst 3:2
+2857 lassie 0:2
+2858 piggies 3:2
+2859 pen 0:3
+2860 wooed 3:4
+2861 tar 3:4 0:3
+2862 chipper 3:2
+2863 skipper 3:2
+2864 ripper 3:2
+2865 shouldst 3:5
+2866 wed 0:3 3:1
+2867 wary 3:4
+2868 he'll 0:5
+2869 detained 3:2
+2870 neccesary 3:2
+2871 secretary 3:2
+2872 roosters 3:2
+2873 espouse 3:2
+2874 optimism 3:2
+2875 criticism 3:2
+2876 doctors 3:2
+2877 rheumatism 3:2
+2878 zed 0:3
+2879 blind 3:3 6:1
+2880 womankind 3:2
+2881 rout 3:2
+2882 answer 0:2
+2883 lullaby 3:2
+2884 chilled 3:2
+2885 winter 3:3 4:1
+2886 shining 3:4 0:1
+2887 gentlemen 9:2 3:1
+2888 importune 3:1
+2889 farther 3:1
+2890 resolved 3:1
+2891 bestow 3:1
+2892 youngest 3:1
+2893 elder 3:1
+2894 haul 2:1 0:1
+2895 leading 3:2
+2896 rackets 3:1
+2897 rip-roaring 0:1
+2898 rich 0:3 3:1
+2899 wouldst 3:1
+2900 attain 3:1
+2901 brackets 3:1
+2902 purse 0:1
+2903 lining 4:1 3:1
+2904 lifeless 0:1
+2905 wifeless 0:1
+2906 unending 0:2
+2907 art 3:5
+2908 pining 4:1 3:1
+2909 thoroughbred 3:1
+2910 patrician 3:1
+2911 spraying 0:1
+2912 decaying 3:1
+2913 social 0:6 9:2 6:1
+2914 goose 3:2
+2915 thy 3:1
+2916 position 4:1 0:1
+2917 like[lucentio 3:1
+2918 maid 3:5 0:1
+2919 qualm 3:2
+2920 double-quick 3:2
+2921 howdy 3:4
+2922 mom 3:1
+2923 pal 9:3 0:1
+2924 i'm/she's 3:3
+2925 tarry 3:1
+2926 my/her 3:1
+2927 miscarry 3:1
+2928 dicka 3:7
+2929 gabriel 3:14
+2930 brothers 3:1
+2931 sisters 3:1
+2932 devil 3:1
+2933 playin 3:5
+2934 horn 3:2
+2935 sinner 0:1
+2936 scamp 0:1
+2937 willin 3:1
+2938 trim 3:1
+2939 lamp 0:1
+2940 satan's 3:1
+2941 blowin 3:1
+2942 satan 0:1
+2943 farewell 4:1 3:1 0:1
+2944 brimstone 3:1
+2945 purged 3:1
+2946 mountain 0:2
+2947 scamps 3:1
+2948 sinners 0:1
+2949 expensive 3:1
+2950 dinners 3:1
+2951 friendship 3:9
+2952 s.o.s 3:1
+2953 bail 3:1
+2954 blendship 3:4
+2955 friendships 3:4
+2956 dine 3:3
+2957 borrow 0:1
+2958 chuck 3:3
+2959 like[dubarry 3:1
+2960 black 9:2 3:1
+2961 bullet 3:1
+2962 complain 3:1
+2963 smoke 0:2
+2964 oke 3:1
+2965 hep 3:6
+2966 shirt 3:1
+2967 sawed 3:1
+2968 crick 3:1
+2969 slick 9:1 3:1
+2970 quack 3:4
+2971 wunderbar 3:16
+2972 jungfrau 3:1
+2973 secret 6:1 3:1 2:1
+2974 chalet 3:1
+2975 liebchen 3:1
+2976 mein 0:1
+2977 like[fred 3:1
+2978 glove 3:1
+2979 madly 3:2
+2980 gladly 0:1
+2981 life's 0:2
+2982 tale 0:1
+2983 lived 9:3 3:1
+2984 sadder 0:1
+2985 moister 3:1
+2986 awf'lly 2:2 3:1
+2987 travel 0:2 3:1
+2988 poor 0:5 9:4 4:2
+2989 chef 3:1
+2990 casino 3:1
+2991 lying 0:1
+2992 platter 0:2
+2993 queens 6:1 3:1
+2994 chatter 6:1 3:1
+2995 millionaires 3:1
+2996 discuss 3:1
+2997 marriages 3:1
+2998 affairs 3:1
+2999 thrilled 3:1
+3000 bivalve 3:1
+3001 climber 3:1
+3002 feeding 3:1
+3003 hoggenheimer 3:1
+3004 gaily 3:1
+3005 glides 0:1
+3006 gilded 3:1
+3007 insides 0:1
+3008 lunch 3:7 9:1
+3009 complains 0:1
+3010 hostess 3:1
+3011 hurry 3:1 0:1
+3012 troubled 3:1
+3013 tide 4:1 3:1
+3014 rolling 0:1
+3015 tossed 0:1
+3016 finds 3:1
+3017 quit 3:1
+3018 cloister 3:1
+3019 murmured 0:1
+3020 taste 6:2 3:2
+3021 op’nin 0:1
+3022 op'nin 3:10
+3023 philly 3:2
+3024 baltimoe 3:2
+3025 stagefolks 0:2
+3026 ulcers 0:2
+3027 weeks 3:4 9:2
+3028 rehearse 3:4
+3029 overture 3:2
+3030 cross 3:3 4:2
+3031 fingers 3:2
+3032 curtain 9:2 3:2
+3033 otis 3:7
+3034 regrets 3:7
+3035 unable 3:6
+3036 delayed 0:1
+3037 lover's 3:1
+3038 lane 3:1
+3039 strayed 3:1
+3040 woke 4:1 3:1 2:1
+3041 ran 0:1
+3042 astray 3:1
+3043 velvet 9:1 3:1
+3044 drew 0:2
+3045 mob 3:1
+3046 dragged 3:1
+3047 strung 3:1
+3048 moment 4:4 0:3
+3049 lifted 0:1
+3050 timeless 3:1
+3051 gray 3:2 6:1
+3052 loud 3:1
+3053 cheers 9:1 3:1
+3054 tears 4:3 0:1
+3055 sizzles 3:1
+3056 drizzles 0:1
+3057 humdrum 3:2
+3058 flew 3:2 0:1
+3059 quickened 3:1
+3060 stayed 9:1 4:1 0:1
+3061 mystery 3:2
+3062 threw 3:2
+3063 belongs 3:6
+3064 daddy 3:7 6:1
+3065 cuties 0:1
+3066 duties 3:1
+3067 begun 9:2 4:2 0:1
+3068 share 0:3 9:1
+3069 duke 4:1 3:1
+3070 caddie 3:1
+3071 scout 3:1
+3072 invites 0:1
+3073 fin 3:1
+3074 haddie 3:1
+3075 baby's 3:1
+3076 secure 0:1
+3077 da-a-a-a-a-a-a-a-ad 3:1
+3078 laddy 3:1
+3079 warn 3:1
+3080 afar 3:1
+3081 collecting 3:1
+3082 objets 3:1
+3083 d'art 3:1
+3084 duveen 3:1
+3085 direction 0:1
+3086 collection 0:1
+3087 exact 3:1
+3088 nature's 0:1
+3089 fleeing 3:1
+3090 admiring 3:1
+3091 honeydew 0:1
+3092 well-being 3:1
+3093 settles 0:1
+3094 shines 3:1
+3095 enter 4:1 0:1
+3096 prevent 0:1
+3097 destroying 3:1
+3098 center 0:1
+3099 filled 4:1 3:1
+3100 essence 3:1
+3101 quintessence 3:1
+3102 tellin 3:1
+3103 helen 3:1
+3104 troy 0:1
+3105 likedarling 3:1
+3106 mend 9:1 0:1
+3107 behave 3:7
+3108 gamblin 0:1
+3109 gee 9:4 3:2
+3110 switched 3:1
+3111 dice 3:1
+3112 slave 0:2
+3113 hometown 3:1
+3114 settlin 0:1
+3115 grave 9:1 6:1 0:1
+3116 millionaire 3:4
+3117 flashy 3:1
+3118 flunkies 3:1
+3119 estate 3:1 0:1
+3120 wallow 0:1
+3121 supersonic 0:1
+3122 like[mike/liz 3:1
+3123 uranium 3:1
+3124 journey 9:6 4:1 0:1
+3125 gigantic 3:1
+3126 foreign 3:1
+3127 tire 6:2 0:1
+3128 marble 3:1
+3129 swimming 3:3
+3130 pool 3:1
+3131 liveried 3:1 0:1
+3132 chauffeur 3:2
+3133 box 3:1
+3134 wagner 3:1
+3135 corner 6:1 3:1
+3136 cartiers 0:1
+3137 york 3:7 2:1
+3138 stink 3:1
+3139 battery 0:1
+3140 watch 3:1 0:1
+3141 liners 3:1
+3142 moving 3:1
+3143 sunday 3:1
+3144 afternoon 3:2
+3145 hackensack 3:2
+3146 once-over 3:1
+3147 train 0:1
+3148 burg 3:1
+3149 undertaker 3:1
+3150 funeral 3:1
+3151 clever 9:3 3:1
+3152 remarking 3:1
+3153 grown 4:4 6:1 3:1
+3154 sewn 3:1
+3155 calf 0:1
+3156 cap 0:1
+3157 rate 3:1
+3158 doctor 0:1
+3159 folks'll 0:1
+3160 dentist 3:1
+3161 like[serafin 3:1
+3162 tricks 3:1
+3163 jokes 3:1
+3164 huge 0:1
+3165 baggy 3:1
+3166 butcher 0:1
+3167 baker 0:2
+3168 embrace 3:1
+3169 barber 3:1
+3170 disgrace 0:1
+3171 grande 0:1
+3172 buffoon 9:1 3:1
+3173 demoiselles'll 0:1
+3174 swoon 3:1
+3175 jackanapes 3:1
+3176 imitate 0:1
+3177 apes 3:1
+3178 composer 0:1
+3179 rent 9:1 3:1
+3180 arrears 3:1
+3181 crowds'll 3:1
+3182 giggle 3:1
+3183 wiggle 3:1
+3184 ass 3:1
+3185 class 6:1 3:1 2:1
+3186 quips 0:1
+3187 buck 0:1
+3188 gambler 0:1
+3189 duck 3:1
+3190 depths 3:4
+3191 manhattan 3:2 6:1
+3192 bored 3:1
+3193 walks 0:1
+3194 neon 3:1
+3195 rainbows 0:1
+3196 blazing 0:1
+3197 taxis 3:1
+3198 roar 3:1
+3199 pailletted 0:1
+3200 ninetieth 3:2 0:1
+3201 crowds 3:1
+3202 morocco 3:1
+3203 punish 6:1 3:1
+3204 parquet 3:1
+3205 couples 0:1
+3206 clamor 3:1
+3207 deserted 0:2
+3208 depressed 3:1 2:1
+3209 regal 3:1
+3210 eagle 3:1
+3211 swank 3:1
+3212 bank 0:1
+3213 galore 3:1
+3214 janitor's 3:1
+3215 perfectly 0:2
+3216 sorrow 0:2
+3217 composed 3:1
+3218 worship 3:2
+3219 incidentally 3:1
+3220 spies 3:1
+3221 checking 3:1
+3222 crawl 3:2 9:1
+3223 burn 0:1
+3224 breast 3:2 9:1
+3225 stroke 3:2
+3226 no--no 3:1
+3227 no!'you 0:1
+3228 bury 9:1
+3229 spose 9:1
+3230 relatives 6:2
+3231 pokin 6:1
+3232 downright 0:1
+3233 plump 6:1
+3234 frame 0:1
+3235 wot's 9:1
+3236 traced 0:1
+3237 bus'ness 9:2
+3238 debts 9:1
+3239 erased 9:1
+3240 thrift 9:1
+3241 gift 6:1
+3242 drift 0:1
+3243 meat 9:1
+3244 mooney 9:1
+3245 pussycats 9:1
+3246 toast 9:1
+3247 pussy's 9:1
+3248 lovett 9:3
+3249 notion 9:1
+3250 eminently 9:1
+3251 practical 9:1
+3252 undetectable 9:1
+3253 gentlemen'll 9:1
+3254 shave 9:2
+3255 pies 9:2
+3256 choice 9:2
+3257 todd 6:5
+3258 crunching 0:1
+3259 noises 6:1
+3260 pervading 9:1
+3261 devouring 9:1
+3262 and/then 0:1
+3263 deny 6:1
+3264 desperate 9:2
+3265 measures 6:1
+3266 oven 9:1
+3267 commit 6:1
+3268 sins 9:1
+3269 flesh 6:1
+3270 sat 9:1 2:1
+3271 y'see 6:1
+3272 deceased 6:1
+3273 lawyer's 9:2
+3274 order 9:1
+3275 swallow 6:2
+3276 lean 9:1
+3277 loyal 9:1
+3278 royal 9:1 4:1
+3279 tastes 6:1
+3280 squire 0:1
+3281 mercy 9:1
+3282 closer 6:1
+3283 notice 6:1
+3284 grocer 6:2
+3285 thicker 6:1
+3286 vicar 6:1
+3287 history 9:1
+3288 graves 9:1
+3289 favors 6:1
+3290 serving 6:1
+3291 ev'rybody 9:1 2:1
+3292 shaves 0:1
+3293 flavors 7:1
+3294 gratifying 9:1
+3295 fop 9:1
+3296 finest 9:1
+3297 shepherd's 9:1
+3298 actual 6:1
+3299 shepherd 0:1
+3300 politician 6:1
+3301 oily 9:1
+3302 served 9:1
+3303 doily 6:1
+3304 friar 6:1
+3305 fried 9:1
+3306 drier 0:1
+3307 clergy 9:1
+3308 coarse 6:1
+3309 mealy 6:1
+3310 actor 6:1
+3311 compacter 9:1
+3312 arrives 9:1
+3313 overdone 9:1
+3314 judge 9:2 6:2
+3315 menu 9:1
+3316 charity 9:1
+3317 high-born 9:1
+3318 discriminate 9:1
+3319 abuse 6:1
+3320 disdain 9:1
+3321 regain 9:1
+3322 agony 9:6
+3323 speech 9:1
+3324 maintaining 9:2
+3325 blithe 9:1
+3326 frequently 9:1
+3327 humming 9:3
+3328 lighthearted 0:1
+3329 ah-ah-ah-ah-ah-ah-ah 9:1
+3330 painful 9:1
+3331 doors 9:3
+3332 torture 6:1
+3333 teach 9:3 4:3
+3334 intriguing 9:1
+3335 fatiguing 0:1
+3336 sensitive 9:1
+3337 well-mannered 9:1
+3338 considerate 9:2
+3339 passionate 9:2
+3340 throne 9:1
+3341 maidens 9:1
+3342 madness 6:1
+3343 climbing 9:1 2:1
+3344 nearing 0:1
+3345 ah-ah-ah-ah-ah-ah-ah-ah 6:1
+3346 misery 9:1
+3347 woe 9:1 2:1
+3348 steps 9:1
+3349 knife 6:1
+3350 puerto 9:1
+3351 rico 9:1
+3352 heart's 6:1
+3353 devotion 6:1
+3354 sink 9:1
+3355 hurricanes 6:1
+3356 blowing 9:1 6:1
+3357 population 9:1 2:1
+3358 owing 9:1
+3359 sunlight 6:1 4:1
+3360 streaming 9:1
+3361 natives 9:1
+3362 steaming 9:1
+3363 america 9:17
+3364 fee 6:1
+3365 buying 6:2
+3366 credit 9:1
+3367 charge 9:1
+3368 washing 0:1
+3369 machine 9:1
+3370 skyscrapers 9:1
+3371 cadillacs 6:1
+3372 zoom 9:1
+3373 industry 9:1
+3374 twelve 9:1
+3375 housing 9:1
+3376 space 9:2
+3377 slamming 6:1
+3378 terrace 9:1
+3379 apartment 9:1
+3380 rid 6:1
+3381 accent 6:1
+3382 tables 0:1
+3383 grime 0:1
+3384 organized 9:2
+3385 crime 0:1
+3386 terrible 9:4 6:2
+3387 juan 9:1
+3388 cheer 9:1
+3389 moved 0:1
+3390 starting 9:2
+3391 everything's 9:7
+3392 decks 6:1
+3393 tracks 9:1
+3394 relax 9:1
+3395 now's 0:1
+3396 inning 6:1
+3397 that'll 9:1
+3398 beginning 6:1
+3399 hit 9:2
+3400 heights 9:2
+3401 due 9:3
+3402 momma 9:1
+3403 nothing's 9:1
+3404 daffodils 9:1
+3405 santa 9:1
+3406 claus 6:1
+3407 lollipops 9:1
+3408 sergeant 9:1
+3409 krupke 9:9
+3410 upke 9:1
+3411 outta 6:1
+3412 mothers 9:16 4:1
+3413 junkies 6:1
+3414 fathers 6:1
+3415 drunks 9:1
+3416 moses 6:1
+3417 natcherly 9:1
+3418 punks 6:1
+3419 officer 9:6 6:1
+3420 upset 6:1
+3421 oughta 9:2
+3422 delinquents 9:1
+3423 misunderstood 9:1 6:1
+3424 untapped 6:1
+3425 touchin 9:1
+3426 lemme 9:1
+3427 honor 9:2
+3428 parents 6:2
+3429 treat 6:1
+3430 rough 6:2
+3431 marijuana 0:1
+3432 puff 6:1
+3433 leapin 6:1
+3434 lizards 6:1
+3435 square 6:2 4:2
+3436 analysis’s 9:1
+3437 neurosis 0:1
+3438 curbed 9:1
+3439 psychologically 6:2
+3440 disturbed 9:6
+3441 opinion 9:2
+3442 depraved 9:2
+3443 account 9:2
+3444 deprived 9:1
+3445 headshrinker 9:1
+3446 mommy 9:1 0:1
+3447 clobbers 6:1
+3448 commie 9:1
+3449 wears 9:2
+3450 mustache 9:1
+3451 goodness 9:2
+3452 gracious 9:1
+3453 shouldn’t 6:1
+3454 couch 9:1
+3455 career 9:1 6:1
+3456 society’s 9:1
+3457 sociologically 9:2
+3458 sick 9:9 4:1
+3459 shrunk 6:1
+3460 juvenile 9:1
+3461 delinquency 9:1
+3462 purely 9:1
+3463 disease 9:4
+3464 worker 9:2
+3465 soda-jerker 9:1
+3466 slob 9:1
+3467 anti-social 0:1
+3468 anti-work 9:1
+3469 gloryosky 6:1
+3470 jerk 0:1
+3471 eek 9:1
+3472 earthly 9:1
+3473 damn 4:4 9:1
+3474 drinks 0:2
+3475 stinks 9:1
+3476 knees 2:2 9:1
+3477 krup 6:1
+3478 giants 9:4
+3479 stone 6:3 9:1
+3480 pleases 0:1
+3481 exploring 0:1
+3482 dare 6:1
+3483 giant 6:4
+3484 sweeping 9:1
+3485 draws 6:1
+3486 stomach 9:1
+3487 steal 6:6
+3488 scramble 9:1
+3489 explore 6:2
+3490 awesome 9:1
+3491 scary 9:2
+3492 finch 6:2
+3493 linnet 9:2
+3494 blackbird 9:2
+3495 jubilate 9:1
+3496 sitting 6:3
+3497 cages 9:1
+3498 waits 6:2
+3499 beckoning 9:2
+3500 staring 9:1 4:1
+3501 maddened 9:1
+3502 cage 6:1
+3503 rooms 6:1
+3504 damask 9:1
+3505 larks 9:1
+3506 captive 9:1
+3507 adaptive 0:1
+3508 witty 6:1
+3509 alarming 0:1
+3510 mirror 9:3
+3511 entrancing 9:2
+3512 running 9:2 4:2
+3513 craziest 6:1
+3514 block 6:3
+3515 advanced 9:1
+3516 insane 6:1
+3517 chino 9:1
+3518 modest 9:1
+3519 polite 0:1
+3520 well-bred 6:1
+3521 mature 9:1
+3522 committee 9:1
+3523 dizzy 9:1
+3524 fizzy 6:1
+3525 resign 6:1
+3526 straight 9:3 6:2
+3527 delay 9:3
+3528 misled 6:1
+3529 showed 9:1
+3530 hadn't 9:2
+3531 path 9:5
+3532 cared 6:1
+3533 excited 9:3
+3534 sickening 6:1
+3535 grin 6:1 4:1
+3536 bared 6:1
+3537 swallowed 9:1
+3538 slimy 6:1
+3539 secrets 6:1
+3540 familiar 9:1
+3541 disappear 6:1 4:1
+3542 granny 9:4 6:2
+3543 brought 6:2
+3544 valuable 9:1
+3545 hood 6:1
+3546 strangers 6:2
+3547 dangers 9:2
+3548 daring 9:1 4:1
+3549 sharing 0:1
+3550 open-hearted 0:1
+3551 takes 9:9
+3552 patience 6:2
+3553 despair 9:2
+3554 thriving 6:1
+3555 surviving 9:1
+3556 blossoming 9:1
+3557 accepting 6:1
+3558 meeting 9:1
+3559 minds 6:1
+3560 witches 6:1
+3561 hoods 9:1
+3562 prize 6:1
+3563 theater 9:1
+3564 matters 9:1
+3565 faded 9:1 4:1
+3566 jaded 6:1
+3567 bursting 6:2
+3568 a-twitter 9:1
+3569 elusively 9:1
+3570 bitter 9:1
+3571 passably 6:1
+3572 covered 9:3
+3573 glitter 6:1
+3574 mold 9:1
+3575 woman 9:7 4:7
+3576 perfection 9:9
+3577 deepest 0:1
+3578 dismay 9:2
+3579 flustered 6:1
+3580 admitted 9:1
+3581 worst 9:1
+3582 blustered 9:1
+3583 simpered 9:1
+3584 cursed 6:1
+3585 weren't 6:1
+3586 flinch 9:1
+3587 pinch 6:1
+3588 denied 9:1
+3589 lied 9:1
+3590 vicious 6:1
+3591 acted 6:1
+3592 abused 6:1
+3593 sulky 9:1
+3594 bristling 0:1
+3595 bulky 6:1
+3596 bruised 9:1
+3597 willful 6:1
+3598 fled 9:1 4:1
+3599 skillful 9:1
+3600 insulted 6:1
+3601 insisting 0:1
+3602 fearful 6:1
+3603 tearful 9:1
+3604 prospects 9:1
+3605 grim 9:1
+3606 johanna 9:5
+3607 convinced 9:1
+3608 satisfied 9:1
+3609 happily 6:1
+3610 mistaken 9:1
+3611 walls 9:2
+3612 buried 9:2
+3613 imbecilities 9:2
+3614 tumble 9:1 4:1
+3615 lavishly 9:1
+3616 fredrik 9:3
+3617 petra 9:1
+3618 possibilities 9:2
+3619 ravish 0:1
+3620 nap 9:2
+3621 grumpy 9:1
+3622 nordstrom 9:1
+3623 sister's 6:1
+3624 visit 9:3
+3625 ravishment 6:1
+3626 option 0:1
+3627 imperious 9:1
+3628 servants 6:1 4:1
+3629 laughing 0:1
+3630 deployment 0:1
+3631 adoption 9:1
+3632 physical 6:1
+3633 force 9:1
+3634 amalia 6:1
+3635 jabbering 9:1
+3636 arouse 9:1
+3637 assume 9:1
+3638 trouser 9:2
+3639 leg 9:1 6:1
+3640 crossing 0:1
+3641 tooth 9:1
+3642 pulled 9:2
+3643 tangled 9:1
+3644 stays 9:1
+3645 snapped 6:1
+3646 jangled 0:1
+3647 energy 9:1
+3648 sapped 6:1
+3649 erling 6:1
+3650 market 6:2
+3651 removing 9:1
+3652 clothing 6:1
+3653 subsequent 9:1
+3654 loathing 6:1
+3655 eliminates 6:2 0:1
+3656 jealous 9:1
+3657 moor 9:1
+3658 venice 9:1
+3659 approaching 9:1
+3660 festive 6:1
+3661 effect 9:1
+3662 italian 6:1
+3663 it'd 9:1
+3664 verbs 9:1
+3665 aren't 6:1
+3666 irregular 0:1
+3667 broaching 9:1
+3668 suggestive 6:2
+3669 direct 9:1
+3670 chicer 7:1
+3671 language 6:1 2:1
+3672 parlez-vous 0:1
+3673 français 9:1
+3674 settle 9:2
+3675 wit 6:1
+3676 charmingly 9:1
+3677 lecherous 6:1
+3678 nightshirt 9:1
+3679 disarmingly 0:1
+3680 nude 9:1
+3681 arrival 6:1
+3682 effective 9:1
+3683 body's 9:1
+3684 perspective 6:1
+3685 henrik 9:27
+3686 comical 9:1
+3687 chilly 6:1
+3688 nightshirts 9:1
+3689 mid-afternoon 9:1
+3690 virtuous 9:1
+3691 stingy 0:1
+3692 proceed 9:2
+3693 restive 9:1
+3694 coachman 9:1
+3695 tiniest 9:1
+3696 tip 0:1
+3697 penchant 9:1
+3698 sade 9:1
+3699 trenchant 6:1
+3700 dickens 9:1
+3701 frantic 6:1
+3702 stendhal 9:2
+3703 maupassant's 6:1
+3704 candor 9:1
+3705 brontés 7:1
+3706 grander 6:1
+3707 blander 6:1
+3708 hans 9:1
+3709 christian 9:1
+3710 ander 9:1
+3711 sen 9:1
+3712 risque 9:1
+3713 wasn't 6:2
+3714 mental 9:1
+3715 facilities 0:1
+3716 partially 6:1
+3717 muddied 9:1
+3718 bracelet 9:1
+3719 earrings 6:3
+3720 rubies 9:1
+3721 diamonds 6:1
+3722 adjust 6:1
+3723 original 4:2 0:1
+3724 desiree 9:2
+3725 armfeldt 9:1
+3726 glamorous 9:7
+3727 gowns 6:1
+3728 distinguished 6:1
+3729 and/or 9:2
+3730 anne 9:1
+3731 gloomy 9:2
+3732 profound 9:2
+3733 agrees 9:2
+3734 fairly 9:1 4:1
+3735 personal 9:1
+3736 discovery 9:1
+3737 rush 6:1
+3738 shush 6:1
+3739 gush 6:1 4:1
+3740 hush 6:1
+3741 god's 0:2
+3742 mumbles 9:1
+3743 short 9:1 4:1
+3744 ignoring 0:1
+3745 dammed 9:1
+3746 beg 9:1 2:1
+3747 pardon 9:3 4:1
+3748 stated 9:2
+3749 intolerable 9:1
+3750 tolerated 9:1
+3751 reassure 6:1
+3752 endure 0:1
+3753 ninety 9:2
+3754 deathbed 6:1
+3755 egerman 0:1
+3756 promise 0:3
+3757 touch 4:4 9:3
+3758 kissing 9:3
+3759 brow 9:2 4:1 0:1
+3760 endearing 0:2
+3761 domineering 6:2
+3762 shortcoming 9:2
+3763 racket 9:1
+3764 father's 9:1
+3765 stroking 9:1
+3766 peering 9:1
+3767 tremulous 9:2
+3768 cries 0:1
+3769 windows 6:1
+3770 impatiently 0:1
+3771 patiently 6:1
+3772 cheering 6:1
+3773 interfering 9:1
+3774 thighs 9:1
+3775 death 9:1 0:1
+3776 miracle 6:5
+3777 marvelous 9:1
+3778 wot 6:1
+3779 t'was 9:1
+3780 pirelli's 9:6
+3781 elixir 9:3
+3782 tick 9:1
+3783 bottle 9:3
+3784 costs 9:1
+3785 guaranteed 6:1
+3786 stimulate 6:1
+3787 growth 6:1
+3788 oath 9:1
+3789 tis 9:4 4:1
+3790 unique 6:1
+3791 stimulatin 0:1
+3792 i'nt 6:1
+3793 ma'm 9:1
+3794 stench 9:2
+3795 trench 9:2
+3796 sprouts 9:1
+3797 thick 6:1
+3798 misses 6:1
+3799 piss 9:3
+3800 ink 6:1
+3801 activate 9:1
+3802 roots 6:1
+3803 boots 6:1
+3804 eats 9:2
+3805 stylish 6:1
+3806 trimming 6:1
+3807 massage 6:1
+3808 infatuate 6:1
+3809 ardent 9:1
+3810 fetch 9:1
+3811 pomade 9:1
+3812 pumice 6:1
+3813 lend 9:1
+3814 seductive 9:1
+3815 tone 9:1
+3816 sprinkling 9:1
+3817 closest 6:1
+3818 delight 4:2 6:1
+3819 catching 6:1
+3820 inspire 9:1
+3821 blood 9:5
+3822 leap 6:1
+3823 require 9:1
+3824 purpose 6:1
+3825 revenge 9:1
+3826 haste 9:2
+3827 commended 9:1
+3828 intended 0:1
+3829 ward 6:1
+3830 fascinating 6:1
+3831 sipping 9:1 4:1
+3832 silhouetted 6:1
+3833 glancing 6:1
+3834 breathing 4:4 0:1
+3835 lightly 9:1
+3836 candles 9:1 4:1
+3837 combing 9:2
+3838 vanish 6:1
+3839 mirrors 6:1
+3840 gardens 9:1
+3841 letter-writing 9:1
+3842 flower-picking 6:1
+3843 weather-watching 9:1
+3844 proof 6:1
+3845 far-off 6:1
+3846 village 9:4
+3847 edge 6:1
+3848 jewels 9:1
+3849 lad 9:2 4:1
+3850 childless 6:1
+3851 giving 9:1
+3852 festival 9:22
+3853 riches 9:1
+3854 cow 9:14
+3855 girl's 9:1
+3856 cinderella 9:10
+3857 king's 6:2
+3858 stepmother 9:1
+3859 daughters 6:3
+3860 prince 9:4
+3861 vile 9:1
+3862 wit's 9:1
+3863 heaven's 9:1
+3864 wore 9:1
+3865 loaf 9:3 4:3 2:1
+3866 lentils 9:2
+3867 chores 9:1
+3868 eaves 9:2
+3869 fields 9:2
+3870 castles 6:1
+3871 ponds 6:1
+3872 ahhhhhhhhhh 9:1
+3873 peck 6:1
+3874 swiftly 0:1
+3875 sift 9:1
+3876 milky-white 0:1
+3877 sell 9:6
+3878 milky-white's 9:1
+3879 bugs 0:1
+3880 dugs 9:1
+3881 rump 9:1
+3882 hump 9:1
+3883 wither's 9:1
+3884 wither 6:2
+3885 expected 9:1
+3886 ma'am 9:1
+3887 grandmother's 6:4
+3888 sort 4:2 9:1
+3889 basket 9:1
+3890 shhhh 9:1
+3891 alright 6:1
+3892 sweets 0:1
+3893 tighter 0:1
+3894 tight 9:1 2:1
+3895 sold 9:1 4:1
+3896 witch 9:1
+3897 next-door 9:1
+3898 cooking 9:1
+3899 belly 0:1
+3900 blue-moon 9:1
+3901 undone 0:1
+3902 neighbors 9:1
+3903 developed 9:1
+3904 unusual 6:1
+3905 appetite 9:1
+3906 admired 9:1
+3907 garden 6:2 0:1
+3908 greens 9:4
+3909 parsley 9:2
+3910 peppers 9:1
+3911 cabbages 0:1
+3912 celery 6:1
+3913 asparagus 6:1
+3914 watercress 6:1
+3915 ferns 6:1
+3916 lettuce 9:1
+3917 autumn 4:3 9:1
+3918 robbing 0:1
+3919 raping 6:1
+3920 rooting 9:1
+3921 rutabaga 0:1
+3922 raiding 9:1
+3923 arugula 6:1
+3924 ripping 9:1 4:1
+3925 rampion 9:2
+3926 champion 9:1
+3927 laid 9:1 6:1
+3928 turned 9:1 4:1
+3929 return 9:2
+3930 fair 9:2 2:1
+3931 bear 0:1
+3932 stole 9:1
+3933 cost 9:1
+3934 youth 0:2
+3935 beauty 9:1
+3936 warned 0:1
+3937 ugliness 9:1
+3938 he'd 9:1
+3939 stolen 0:1
+3940 bang 0:1
+3941 crash 9:1
+3942 lightning 6:1 4:1
+3943 flash 9:1 0:1
+3944 claim 9:1
+3945 shrieked 0:1
+3946 screeched 9:1
+3947 hid 9:1
+3948 measure 0:1
+3949 mollified 9:1
+3950 barren 9:1
+3951 scenes 9:1
+3952 thrives 9:1
+3953 nectarines 9:1
+3954 kings 6:1
+3955 hasn't 0:2
+3956 cheating 0:1
+3957 starving 9:1
+3958 listening 9:1
+3959 marketplace 6:1
+3960 journey's 0:1
+3961 reversed 9:1
+3962 potion 9:2
+3963 slipper 9:5
+3964 midnight 9:1
+3965 reappears 6:1
+3966 carriage 9:1
+3967 fools 9:1
+3968 mortify 9:1
+3969 lasts 9:1
+3970 surely 6:1 2:1
+3971 scullery 9:1
+3972 witch's 9:1
+3973 ugh 6:1
+3974 vain 9:1 2:1
+3975 you/i 6:1
+3976 glade 6:1
+3977 lurking 6:1
+3978 journeying 9:1
+3979 mid-air 9:1
+3980 approve 6:1
+3981 tearing 9:1
+3982 stopped 6:1
+3983 finally 9:1 4:1
+3984 entrance 6:1
+3985 usual 9:1
+3986 flair 9:1
+3987 farce 9:1
+3988 fault 9:1
+3989 losing 0:1
+3990 timing 6:1
+3991 knitting 0:1
+3992 sweaters 9:1
+3993 sights 9:1
+3994 places 9:2
+3995 poppa 9:7
+3996 whaddaya 9:1
+3997 content 6:1 2:1
+3998 bingo 9:1
+3999 paying 9:1
+4000 peachy 9:1
+4001 hum 9:1 0:1
+4002 orpheum 6:1
+4003 circuit 6:1
+4004 gimme 9:1
+4005 orpheum's 6:1
+4006 office 0:1
+4007 orchestrations 6:1
+4008 routines 6:1
+4009 curtains 9:1
+4010 feathered 0:1
+4011 photographs 6:1
+4012 front 9:1
+4013 theatre 9:1
+4014 agent—and 6:1
+4015 jig 9:1
+4016 booked 9:1
+4017 eighty-eight 9:3
+4018 bucks 9:1 0:1
+4019 someplace 9:1
+4020 else—but 0:1
+4021 kids 0:2
+4022 riddance 6:1
+4023 socials 9:1
+4024 lodges 9:1
+4025 shriners 9:1
+4026 l.a 0:1
+4027 butts 9:1
+4028 dream—yeah 9:1
+4029 rot 9:1
+4030 cannonballin 9:1
+4031 gleam 0:1
+4032 something’s 9:3
+4033 click 6:1
+4034 phone’ll 6:1
+4035 jingle 9:1
+4036 door’ll 9:1
+4037 knock 9:1
+4038 latch 9:1
+4039 one-handed 9:1
+4040 holdin 6:1 0:1
+4041 it’ll 9:1
+4042 pull 6:1 4:1
+4043 hummin 9:1
+4044 faced 9:1
+4045 decide 9:1
+4046 insist 6:1
+4047 challenge 0:1
+4048 delights 9:1
+4049 excites 9:1
+4050 list 9:1
+4051 yen 6:1
+4052 counting 9:1
+4053 hover 9:1
+4054 obey 9:1 4:1
+4055 ugly 9:1
+4056 embarrass 9:1
+4057 shield 9:1
+4058 princes 9:2
+4059 wolves 6:1 0:1
+4060 humans 6:1
+4061 protection 9:1
+4062 disobeyed 6:1
+4063 ordinary 9:19
+4064 mop 9:1
+4065 floors 6:1
+4066 tend 6:1
+4067 beds 9:1
+4068 vine 9:1
+4069 dying 9:1
+4070 winches 0:1
+4071 recite 6:1
+4072 cough 9:1
+4073 poise 6:1
+4074 sandwiches 9:1
+4075 gallants 9:1
+4076 cases 9:1
+4077 mine's 6:1
+4078 realer 9:1
+4079 brooch 9:1
+4080 unravel 9:1
+4081 coach 6:1
+4082 traveling 9:1
+4083 letter 4:1 0:1
+4084 enclosing 9:1
+4085 reviews 6:1
+4086 resilient 6:1
+4087 speeches 6:1
+4088 shaw's 9:1
+4089 needn’t 0:1
+4090 committees 6:1
+4091 keys 9:1
+4092 cities 9:1
+4093 interfere 9:1
+4094 princess 0:1
+4095 guarded 0:1
+4096 dragons 9:1
+4097 snorting 9:1
+4098 grumbling 6:1
+4099 rumbling 9:1
+4100 wagons 9:1
+4101 disguises 6:1
+4102 surprises 9:1
+4103 galloping 9:1
+4104 rescue 9:1
+4105 survive 9:1
+4106 missing 9:1
+4107 suns 6:1
+4108 moons 9:1
+4109 shooting 9:1
+4110 sparks 0:1
+4111 address 0:1
+4112 concealing 0:1
+4113 clues 9:1
+4114 chose 6:1
+4115 ignore 9:1
+4116 closes 6:1
+4117 dues 9:1
+4118 broken 9:1
+4119 bone 9:1
+4120 who've 4:1
+4121 smitten 4:3
+4122 sadly 4:2
+4123 nwdens 2:1
+4124 afloat 0:1
+4125 keel 2:1
+4126 bait 4:1
+4127 albatross 4:1
+4128 slice 2:1
+4129 hunk 2:1
+4130 frill 4:1
+4131 coterie 2:1
+4132 amuck 0:1
+4133 luxury 2:1
+4134 anytime-anywhere 4:1
+4135 lex 4:1
+4136 burst 2:1
+4137 above,we'll 0:1
+4138 teeming 4:1
+4139 pleasures 2:1
+4140 brighter 4:1
+4141 spark 4:1
+4142 unsung 4:1
+4143 joyous 2:2
+4144 pbtbr 4:1
+4145 speaking 4:4
+4146 saloon 4:1
+4147 christopher 0:1
+4148 broke 4:2
+4149 rocket 4:1
+4150 stared 2:1
+4151 ashine 4:1
+4152 scented 4:1
+4153 bough 0:1
+4154 entwine 0:1
+4155 d'ya 4:1
+4156 declare 4:1
+4157 allaglow 4:1
+4158 fragrance 4:1
+4159 d'yamind 4:1
+4160 dust 0:1
+4161 lit 2:1
+4162 bread-and 0:1
+4163 wow!-babyl 4:1
+4164 sion 4:1
+4165 forms 4:1
+4166 finale 4:1
+4167 katherine 2:1
+4168 peter 2:1
+4169 blush 4:4
+4170 bounce 4:1
+4171 zing 4:1
+4172 ensemble 4:2
+4173 overlapping 7:1
+4174 where's 4:2
+4175 beaton 4:4
+4176 depending 4:1
+4177 tuey 2:1
+4178 momin 4:1
+4179 highland 4:1 2:1
+4180 spread 4:1
+4181 net 0:1
+4182 angus 4:5
+4183 time's 4:1
+4184 agin 4:1
+4185 an'we 0:1
+4186 canna 4:1
+4187 laddie 4:3
+4188 brae 2:1
+4189 ope 2:1
+4190 winna 2:1
+4191 creek 0:1
+4192 search 4:1
+4193 peak 4:1
+4194 discord 2:1
+4195 orchestra 4:1
+4196 iln 0:1
+4197 sandy 4:1 2:1
+4198 stuart 4:1
+4199 oth.never 2:1
+4200 ers 4:1
+4201 dragging 4:1
+4202 harry's 4:1
+4203 kneels 0:1
+4204 prayer 4:2
+4205 plough 4:1
+4206 fell 7:1
+4207 crushed 0:1
+4208 wished 2:1
+4209 leavin 4:1
+4210 sense 7:1
+4211 grateful 4:2
+4212 weddin 4:1
+4213 pow'rs 0:1
+4214 mornin 4:5
+4215 ye'll 2:1
+4216 hunt 2:1
+4217 fiona 4:4 2:1
+4218 encounters 2:1
+4219 tommy 4:7
+4220 realizes 4:2
+4221 experiences 4:1
+4222 mind's 2:1
+4223 envision 4:1
+4224 wandered 0:1
+4225 lea 4:1
+4226 fleeting 0:1
+4227 closed 2:1
+4228 bowed 2:1
+4229 watched 2:1
+4230 thanked 0:1
+4231 bend 2:1 0:1
+4232 jus 0:1
+4233 gie 2:1
+4234 jackson's 0:1
+4235 heather 4:4
+4236 gloamin 2:1
+4237 ye're 4:5
+4238 roamin 4:1
+4239 turns 4:3
+4240 jane 2:1
+4241 blackout 2:1
+4242 area 4:1
+4243 wedding 4:2
+4244 refuse 0:1
+4245 tommy's 4:1
+4246 charlie 4:1
+4247 towns.folk 0:1
+4248 sees 4:2
+4249 jean 4:2
+4250 albright 0:1
+4251 exits 2:1
+4252 appears 2:1
+4253 d"mg 4:1
+4254 loneliness 7:1
+4255 ove 4:1
+4256 vam 2:1
+4257 understood 4:1
+4258 fiona-i 4:1
+4259 hurried 4:1
+4260 upstage 4:1
+4261 chorus 2:1
+4262 mills 4:1
+4263 glen 2:1
+4264 bairn 4:1
+4265 louder 2:1 0:1
+4266 grabs 4:1
+4267 phone 4:1
+4268 jeff 4:1
+4269 scotland 4:2
+4270 in;life 4:1
+4271 owns 4:1
+4272 plaid 4:1
+4273 dreary 2:1
+4274 cheery 4:1
+4275 wan 2:1
+4276 tin 4:1
+4277 startin 0:1
+4278 berry 0:1
+4279 wench'll 4:1
+4280 allalone 2:1
+4281 essential 4:1
+4282 yego 0:1
+4283 bucket 4:1
+4284 whiskey 4:2
+4285 butalthough 4:1
+4286 drunk 4:1
+4287 succeed 4:1 2:1
+4288 france 4:3
+4289 else's 4:4
+4290 heartstrings 4:2
+4291 list'ning 0:2
+4292 reading 7:1
+4293 poems 4:1
+4294 candlelight 2:1
+4295 strumming 4:1
+4296 guitars 2:1
+4297 ennifer 4:1
+4298 est 4:1
+4299 plume 4:1
+4300 knowledge 0:1
+4301 there're 4:1
+4302 curtsy 4:1
+4303 indian 4:1
+4304 squat 2:1
+4305 concerned 4:1
+4306 storing 2:1
+4307 mozart 4:1
+4308 sonata 0:1
+4309 wecan 2:1
+4310 nero 4:1
+4311 fiddled 4:1
+4312 rome 4:1
+4313 afire 2:1
+4314 liar 4:1
+4315 allfor 4:3
+4316 guess 4:1
+4317 sew 0:1
+4318 wand'rin 4:11 2:2
+4319 iwasborn 2:1
+4320 wheelsare 2:1
+4321 rollin 7:1
+4322 mulesare 4:1
+4323 mud 0:1
+4324 pris'ner 4:2
+4325 plains 4:1
+4326 snowcan 4:1
+4327 bum 4:1
+4328 soonhome 2:1
+4329 star,which,with 0:1
+4330 freddy 4:3
+4331 eynsford-hill 4:1
+4332 accustomed 4:7
+4333 wretched 4:2
+4334 noon 2:1
+4335 collector 4:1
+4336 beating 2:1
+4337 smiles 2:1
+4338 frowns 7:1
+4339 ups 4:1
+4340 downs 2:1
+4341 flow'rs 2:1
+4342 begging 4:1
+4343 serenely 2:1
+4344 independent 4:1
+4345 prematurely 2:1
+4346 grey 2:1
+4347 again-and 4:1
+4348 chalk 4:1
+4349 upped 4:1
+4350 heiress 0:1
+4351 infantile 0:1
+4352 ideal 2:1
+4353 eliza 4:1
+4354 heartless 4:1
+4355 wicked 2:1
+4356 brainless 4:1
+4357 regret 4:2
+4358 frightful 4:1
+4359 humiliating 4:1
+4360 doomed 0:1
+4361 vow 4:2
+4362 reproduced 4:1
+4363 mchugh 4:1
+4364 alan 4:1 2:1
+4365 lerner,s 2:1
+4366 thi 4:1
+4367 lyrics 4:1
+4368 jay 7:1
+4369 lerner 0:1
+4370 sststiuly 4:1
+4371 r[ill 0:1
+4372 lifl 4:1
+4373 poignant 2:1
+4374 inevitable 4:1
+4375 hammers 2:1
+4376 nnd 4:1
+4377 rags 4:3
+4378 f\fo;erableand 0:1
+4379 repentant 4:1
+4380 contrite 4:1
+4381 hurl 2:1
+4382 givther 2:1
+4383 kindness 4:1
+4384 treatment 0:1
+4385 deserves 4:1
+4386 willi 0:1
+4387 benevolence 4:1
+4388 forgiving 4:2
+4389 ing 4:1
+4390 ould 2:1
+4391 staunchly 7:1
+4392 budge 4:1
+4393 vindictiveness 4:1
+4394 crawling 4:1
+4395 atone 4:1
+4396 shiver 2:1
+4397 moan 4:1
+4398 slam 4:1
+4399 hellcat 2:1
+4400 freeze 0:1
+4401 spbakingj 4:1
+4402 hal 4:1
+4403 woes 4:1
+4404 highs 4:1
+4405 lows 4:1
+4406 habit 0:1
+4407 break-and 4:1
+4408 trace 4:1
+4409 exhibit 4:1
+4410 fhese 4:1
+4411 stood 0:1
+4412 salute 4:2
+4413 helpless 4:1
+4414 behold 4:1
+4415 tolled 2:1
+4416 crashing 4:1
+4417 ceiling 4:1
+4418 defenseless 7:1
+4419 ran't 4:1
+4420 baden-baden 2:1
+4421 evians-les-bains 2:1
+4422 rhine 2:1
+4423 da-da-da-da 2:1
+4424 da-da-da 4:2
+4425 da-da-da-da-da-da-da 2:1
+4426 tart 4:1
+4427 lachailles 4:1
+4428 da-da 4:1
+4429 sandomir 4:1
+4430 da-da-da-da-da-da 2:1
+4431 supper 2:1
+4432 roulette 4:1
+4433 enthused 4:1
+4434 amused 0:1
+4435 celebrated 0:1
+4436 invented 2:4
+4437 fullof 4:1
+4438 sin 4:1
+4439 dissipated 2:1
+4440 plain 4:1
+4441 blister 4:1
+4442 anta 0:1
+4443 allwe'd 2:1
+4444 absurd 0:1
+4445 shout 4:1
+4446 ev'ryone 4:3
+4447 ron 2:1
+4448 jabber 0:1
+4449 reprise 4:1
+4450 london 4:3
+4451 production 0:1
+4452 orb 2:1
+4453 amour 4:1
+4454 raise 4:1
+4455 snake 4:1
+4456 pleasure-loving 4:1
+4457 rake 0:1
+4458 monks 4:1
+4459 foresee 4:1
+4460 gutters 2:1
+4461 condemned 4:1
+4462 syllable 2:1
+4463 utters 4:1
+4464 cold-blooded 4:1
+4465 tongue 4:1
+4466 aooooow 4:1
+4467 element'ry 0:1
+4468 education 4:1
+4469 soho 2:1
+4470 dropping 4:1
+4471 aitches 2:1
+4472 ev'rywhere 4:2
+4473 costermongers 4:1
+4474 cockney 4:1
+4475 whatya 4:1
+4476 yorkshireman 4:1
+4477 cornishman 2:1
+4478 converse 4:1
+4479 chickens 2:1
+4480 cackling 4:1
+4481 barn 2:1
+4482 garn 4:1 2:1 0:1
+4483 aoooow 4:1
+4484 dirty 0:1
+4485 verbal 0:1
+4486 distinction 7:1
+4487 antique 2:1
+4488 spoke 4:1
+4489 greek 4:1
+4490 frenchman 0:1
+4491 pronounce 2:1
+4492 properly 4:1
+4493 norwegians 4:1
+4494 norwegian 2:1
+4495 greeks 4:1
+4496 arabians 0:1
+4497 arabian 4:1
+4498 speed 4:2
+4499 hebrews 4:1
+4500 backwards 0:1
+4501 frightening 4:1
+4502 proper 2:1
+4503 regarded 4:1
+4504 freak 4:1
+4505 earl 0:1
+4506 peer 2:1
+4507 hark 2:1
+4508 springing 0:1
+4509 smashing 4:1
+4510 positively 4:1
+4511 dashing 2:1
+4512 spectacle 2:1
+4513 ascot 4:2 2:1
+4514 op'ning 4:3
+4515 forward 2:1
+4516 gate 4:1
+4517 cue 4:1
+4518 stony 2:1
+4519 reserve 4:1
+4520 indistin 4:1
+4521 gripping 2:1
+4522 guishable 4:1
+4523 boredom 4:1
+4524 observe 0:1
+4525 prog 2:1
+4526 ress 4:1
+4527 pulses 4:1
+4528 rushing 4:1
+4529 frenzied 4:1
+4530 faces 4:1 2:1
+4531 flushing 4:1
+4532 maintain 4:1
+4533 exhausting 0:1
+4534 pace 4:1
+4535 heartbeats 4:1
+4536 thrilling 4:1
+4537 chilling 2:1
+4538 keyed 4:1
+4539 gavotte 4:1
+4540 steady 2:1
+4541 i'm-and 4:1
+4542 winging 4:1
+4543 crumble 0:1
+4544 rhyme 2:1
+4545 blighters 4:1
+4546 on't 0:1
+4547 owme 2:1
+4548 ume 2:1
+4549 ou're 0:1
+4550 l.iowme 4:1
+4551 ere 4:2
+4552 scream 2:1
+4553 love'll 2:1
+4554 hungered 4:1
+4555 expl'ine 2:1
+4556 wrinkles 4:1
+4557 lasting 2:1
+4558 undying 2:1
+4559 knot 2:1
+4560 track 2:1
+4561 dong 4:4
+4562 stopper 4:1
+4563 whopper 4:1
+4564 spruced 4:2
+4565 dancin 4:1
+4566 whistlin 4:1
+4567 whewt 2:1
+4568 rumpus 4:1
+4569 compass 4:1
+4570 gawd's 4:3
+4571 j'mgettmg 2:1
+4572 dmg 0:1
+4573 drug 4:1
+4574 stamp 4:1
+4575 mail 4:2
+4576 bloke 4:1
+4577 wooin 4:1
+4578 callout 0:1
+4579 army 4:1
+4580 starlight 4:1
+4581 reelin 2:1
+4582 smearin 4:1
+4583 wakin 4:1
+4584 daylight 4:1
+4585 breakin 4:1
+4586 lyric 4:1
+4587 sheet 4:2
+4588 lc-wcc 2:1
+4589 doolittle 2:1
+4590 stanzas 4:1
+4591 dialogue 2:2
+4592 survives 2:1
+4593 beer 2:1
+4594 pub 4:1
+4595 dozen 4:1
+4596 pint 4:1
+4597 album 4:1
+4598 published 4:1
+4599 pete's 2:1
+4600 boot 4:1
+4601 ill 4:1
+4602 higgins 4:1
+4603 whatin 4:1
+4604 prompted 4:1
+4605 eternally 4:1
+4606 noble 4:1
+4607 historically 4:1
+4608 triumph 2:1
+4609 possessed 4:1
+4610 wretch 4:1
+4611 irrational 4:1
+4612 cotton 4:1
+4613 exasperating 4:1
+4614 vacillating 7:1
+4615 calculating 4:1
+4616 agitating 4:1
+4617 maddening 4:1
+4618 infuriating 4:1
+4619 hags 2:1
+4620 slighted 7:1
+4621 shadows 4:1
+4622 smiling 4:1
+4623 paces 4:1
+4624 debating 4:1
+4625 stare 2:1
+4626 castle 4:1
+4627 ponder 4:1
+4628 blows 4:1
+4629 fought 0:1
+4630 dragon 4:2
+4631 whack'd 2:1
+4632 fix'd 4:1
+4633 wagon 2:1
+4634 merriment 4:1
+4635 terror 4:1
+4636 distress 4:1
+4637 pursuing 2:1
+4638 burn'd 4:1
+4639 warrior 2:1
+4640 calm 4:2
+4641 armor 4:1
+4642 rattle 2:1
+4643 petrified 2:1
+4644 fright 2:1
+4645 final 4:1
+4646 shouting 2:1
+4647 rage 4:1
+4648 bridal 4:1
+4649 bower 2:1
+4650 legally 0:1
+4651 regally 4:1
+4652 appalling 4:1
+4653 clamoring 4:1
+4654 blacksmith 2:1
+4655 hammering 4:1
+4656 jythe 2:1
+4657 banging 2:1
+4658 ismere 4:1
+4659 expectation,[painfully 4:1
+4660 anticipation 4:1
+4661 yonnder 2:1
+4662 fishing 4:2
+4663 numb 4:1
+4664 shakes 4:1
+4665 v,'rjt 7:1
+4666 occupies 4:1
+4667 quails 4:1
+4668 quakes 2:1
+4669 searching 4:1
+4670 genevieve 4:11
+4671 plaintive 2:1
+4672 guenevere 0:1
+4673 i'mover 4:1
+4674 devout 4:1
+4675 shan't 2:2
+4676 vehement 0:1
+4677 rebellion 4:1
+4678 maidenhood 4:1
+4679 adoring 4:1
+4680 knight 4:2
+4681 bid 4:1
+4682 bargain'd 0:1
+4683 leaps 4:1
+4684 l"k 4:1
+4685 beads 2:1
+4686 bazaar 4:1
+4687 maiden's 4:1
+4688 luded 0:1
+4689 rescued 4:1
+4690 rnay 4:1
+4691 sundown 4:1
+4692 byeight 4:1
+4693 fog 4:1
+4694 hart 4:1
+4695 amore 4:2
+4696 con 4:1
+4697 gem 4:1
+4698 spo 4:1
+4699 happ'ly-ever-aftering 4:2
+4700 eamelot 2:1
+4701 ialogue 4:1
+4702 elot 4:1
+4703 camelot 4:8
+4704 pause 4:1
+4705 legal 4:1
+4706 laws 4:1
+4707 slush 4:1
+4708 p.m 2:1
+4709 congenial 2:1
+4710 em'rald 2:1
+4711 thousands 4:1
+4712 breathless 4:1
+4713 evermores 4:1
+4714 followme 4:1
+4715 winds 4:1
+4716 cave 4:1
+4717 sapphire 4:1
+4718 invincible 4:1
+4719 fantastic 2:1
+4720 cleave 7:1
+4721 record 4:1
+4722 moat 4:1
+4723 unwinceable 2:1
+4724 impossible 4:1
+4725 deeds 4:1
+4726 daily 4:1
+4727 april's 4:1
+4728 qualm,beforei 4:1
+4729 a-shine 2:1
+4730 again,let 7:1
+4731 poised 4:1
+4732 forgetting 4:1
+4733 beforei 4:1
+4734 gazed 2:1
+4735 barely 2:1
+4736 sign 2:1
+4737 nips 2:1
+4738 flame 4:1
+4739 merrily 4:1
+4740 wintry 4:1
+4741 fire's 2:1

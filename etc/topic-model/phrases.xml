@@ -1,0 +1,183 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.43297991744410397" totalTokens="5167" titles="love, i'm, don't, night, tonight, time, i've, day, ">
+    <word weight="0.034255854461002516" count="177">love</word>
+    <word weight="0.024966131217340818" count="129">i'm</word>
+    <word weight="0.02419198761370234" count="125">don't</word>
+    <word weight="0.017805302883684922" count="92">night</word>
+    <word weight="0.016257015676407974" count="84">tonight</word>
+    <word weight="0.01374104896458293" count="71">time</word>
+    <word weight="0.013547513063673312" count="70">i've</word>
+    <word weight="0.013160441261854073" count="68">day</word>
+    <phrase weight="0.010869565217391304" count="8">baby tonight</phrase>
+    <phrase weight="0.005434782608695652" count="4">can't stand</phrase>
+    <phrase weight="0.004076086956521739" count="3">trees send</phrase>
+    <phrase weight="0.004076086956521739" count="3">there's love</phrase>
+    <phrase weight="0.004076086956521739" count="3">star bright</phrase>
+    <phrase weight="0.004076086956521739" count="3">night young</phrase>
+    <phrase weight="0.002717391304347826" count="2">nose great</phrase>
+    <phrase weight="0.002717391304347826" count="2">promising part</phrase>
+  </topic>
+  <topic id="1" alpha="0.029843555469101245" totalTokens="2864" titles="i’m, it’s, don’t, ioway, girl, chop, you’ll, things, ">
+    <word weight="0.030027932960893854" count="86">i’m</word>
+    <word weight="0.01606145251396648" count="46">it’s</word>
+    <word weight="0.012918994413407821" count="37">don’t</word>
+    <word weight="0.012220670391061452" count="35">ioway</word>
+    <word weight="0.011522346368715084" count="33">girl</word>
+    <word weight="0.009776536312849162" count="28">chop</word>
+    <word weight="0.009078212290502794" count="26">you’ll</word>
+    <word weight="0.008379888268156424" count="24">things</word>
+    <phrase weight="0.006825938566552901" count="4">bred ioway</phrase>
+    <phrase weight="0.005119453924914676" count="3">i’m fed mention barley wheat</phrase>
+    <phrase weight="0.005119453924914676" count="3">i’m gonna</phrase>
+    <phrase weight="0.005119453924914676" count="3">fan tan</phrase>
+    <phrase weight="0.005119453924914676" count="3">don’t wanta</phrase>
+    <phrase weight="0.005119453924914676" count="3">man outa</phrase>
+    <phrase weight="0.0034129692832764505" count="2">man outa hair i’m</phrase>
+    <phrase weight="0.0034129692832764505" count="2">real mccoy things</phrase>
+  </topic>
+  <topic id="2" alpha="0.025742529465051886" totalTokens="282" titles="invented, bar, glow, taught, shan't, dialogue, wand'rin, joyous, ">
+    <word weight="0.014184397163120567" count="4">invented</word>
+    <word weight="0.014184397163120567" count="4">bar</word>
+    <word weight="0.010638297872340425" count="3">glow</word>
+    <word weight="0.010638297872340425" count="3">taught</word>
+    <word weight="0.0070921985815602835" count="2">shan't</word>
+    <word weight="0.0070921985815602835" count="2">dialogue</word>
+    <word weight="0.0070921985815602835" count="2">wand'rin</word>
+    <word weight="0.0070921985815602835" count="2">joyous</word>
+    <phrase weight="0.05263157894736842" count="1">stony silence</phrase>
+    <phrase weight="0.05263157894736842" count="1">tune penny</phrase>
+    <phrase weight="0.05263157894736842" count="1">succeed frown</phrase>
+    <phrase weight="0.05263157894736842" count="1">prematurely grey</phrase>
+    <phrase weight="0.05263157894736842" count="1">spectacle ascot</phrase>
+    <phrase weight="0.05263157894736842" count="1">read rhyme</phrase>
+    <phrase weight="0.05263157894736842" count="1">congenial spot</phrase>
+    <phrase weight="0.05263157894736842" count="1">thrill hunk</phrase>
+  </topic>
+  <topic id="3" alpha="0.02921946794538221" totalTokens="3987" titles="you're, love, it's, true, let's, hot, darn, baby, ">
+    <word weight="0.02708803611738149" count="108">you're</word>
+    <word weight="0.022322548281916228" count="89">love</word>
+    <word weight="0.021319287684976172" count="85">it's</word>
+    <word weight="0.015048908954100828" count="60">true</word>
+    <word weight="0.014296463506395787" count="57">let's</word>
+    <word weight="0.01379483320792576" count="55">hot</word>
+    <word weight="0.01254075746175069" count="50">darn</word>
+    <word weight="0.012039127163280662" count="48">baby</word>
+    <phrase weight="0.010012515644555695" count="8">true darlin fashion</phrase>
+    <phrase weight="0.007509386733416771" count="6">true darlin</phrase>
+    <phrase weight="0.007509386733416771" count="6">late led totally</phrase>
+    <phrase weight="0.007509386733416771" count="6">darn hot</phrase>
+    <phrase weight="0.0050062578222778474" count="4">finer strange</phrase>
+    <phrase weight="0.0050062578222778474" count="4">give baby</phrase>
+    <phrase weight="0.0037546933667083854" count="3">give give</phrase>
+    <phrase weight="0.0037546933667083854" count="3">dim rim</phrase>
+  </topic>
+  <topic id="4" alpha="0.029049955479172364" totalTokens="1089" titles="morning, heaven, church, genevieve, wand'rin, run, girls, ev'ry, ">
+    <word weight="0.018365472910927456" count="20">morning</word>
+    <word weight="0.013774104683195593" count="15">heaven</word>
+    <word weight="0.011937557392102846" count="13">church</word>
+    <word weight="0.010101010101010102" count="11">genevieve</word>
+    <word weight="0.010101010101010102" count="11">wand'rin</word>
+    <word weight="0.010101010101010102" count="11">run</word>
+    <word weight="0.010101010101010102" count="11">girls</word>
+    <word weight="0.009182736455463728" count="10">ev'ry</word>
+    <phrase weight="0.008968609865470852" count="2">ding dong</phrase>
+    <phrase weight="0.008968609865470852" count="2">cheek blush speak</phrase>
+    <phrase weight="0.008968609865470852" count="2">church church gawd's</phrase>
+    <phrase weight="0.008968609865470852" count="2">morning ev'ry</phrase>
+    <phrase weight="0.008968609865470852" count="2">harry beaton</phrase>
+    <phrase weight="0.008968609865470852" count="2">touch else's heartstrings dreams</phrase>
+    <phrase weight="0.004484304932735426" count="1">english teach children</phrase>
+    <phrase weight="0.004484304932735426" count="1">poor eliza heartless</phrase>
+  </topic>
+  <topic id="5" alpha="0.03784787133216408" totalTokens="1397" titles="can't, hear, band, ragtime, naturally, happy, doin, avenue, ">
+    <word weight="0.03364352183249821" count="47">can't</word>
+    <word weight="0.026485325697924122" count="37">hear</word>
+    <word weight="0.020042949176807445" count="28">band</word>
+    <word weight="0.018611309949892626" count="26">ragtime</word>
+    <word weight="0.01789549033643522" count="25">naturally</word>
+    <word weight="0.014316392269148175" count="20">happy</word>
+    <word weight="0.014316392269148175" count="20">doin</word>
+    <word weight="0.012168933428775949" count="17">avenue</word>
+    <phrase weight="0.012711864406779662" count="3">can't wrong</phrase>
+    <phrase weight="0.012711864406779662" count="3">plenty thankful</phrase>
+    <phrase weight="0.00847457627118644" count="2">doin naturally doin naturally</phrase>
+    <phrase weight="0.00847457627118644" count="2">dreaming white christmas treetops glisten children</phrase>
+    <phrase weight="0.00847457627118644" count="2">nursery girl</phrase>
+    <phrase weight="0.00847457627118644" count="2">big city's</phrase>
+    <phrase weight="0.00847457627118644" count="2">classical nag</phrase>
+    <phrase weight="0.00847457627118644" count="2">harm milk pail arm</phrase>
+  </topic>
+  <topic id="6" alpha="0.02838388346733781" totalTokens="506" titles="steal, pure, miracle, todd, grandmother's, giant, lay, i'll, ">
+    <word weight="0.011857707509881422" count="6">steal</word>
+    <word weight="0.011857707509881422" count="6">pure</word>
+    <word weight="0.009881422924901186" count="5">miracle</word>
+    <word weight="0.009881422924901186" count="5">todd</word>
+    <word weight="0.007905138339920948" count="4">grandmother's</word>
+    <word weight="0.007905138339920948" count="4">giant</word>
+    <word weight="0.007905138339920948" count="4">lay</word>
+    <word weight="0.007905138339920948" count="4">i'll</word>
+    <phrase weight="0.02631578947368421" count="1">celery asparagus watercress fiddle ferns</phrase>
+    <phrase weight="0.02631578947368421" count="1">grocer thicker vicar grocer</phrase>
+    <phrase weight="0.02631578947368421" count="1">question misunderstood</phrase>
+    <phrase weight="0.02631578947368421" count="1">junkies fathers</phrase>
+    <phrase weight="0.02631578947368421" count="1">taste blander</phrase>
+    <phrase weight="0.02631578947368421" count="1">stylish trimming</phrase>
+    <phrase weight="0.02631578947368421" count="1">treat rough</phrase>
+    <phrase weight="0.02631578947368421" count="1">kings queens</phrase>
+  </topic>
+  <topic id="7" alpha="0.06036128729962352" totalTokens="373" titles="ago, they’ve, rye, oh-ho, drool, green, dope, wang, ">
+    <word weight="0.013404825737265416" count="5">ago</word>
+    <word weight="0.010723860589812333" count="4">they’ve</word>
+    <word weight="0.010723860589812333" count="4">rye</word>
+    <word weight="0.00804289544235925" count="3">oh-ho</word>
+    <word weight="0.00804289544235925" count="3">drool</word>
+    <word weight="0.00804289544235925" count="3">green</word>
+    <word weight="0.00804289544235925" count="3">dope</word>
+    <word weight="0.00804289544235925" count="3">wang</word>
+    <phrase weight="0.15384615384615385" count="2">ponies crisp</phrase>
+    <phrase weight="0.07692307692307693" count="1">line eager</phrase>
+    <phrase weight="0.07692307692307693" count="1">cracking thumbs grandpa</phrase>
+    <phrase weight="0.07692307692307693" count="1">augusty boys</phrase>
+    <phrase weight="0.07692307692307693" count="1">cliché coming</phrase>
+    <phrase weight="0.07692307692307693" count="1">yah ate</phrase>
+    <phrase weight="0.07692307692307693" count="1">bubbles neck</phrase>
+    <phrase weight="0.07692307692307693" count="1">eyes dull</phrase>
+  </topic>
+  <topic id="8" alpha="0.027869565093065724" totalTokens="499" titles="fannie, wash, hair, scared, roll, world, eyelashes, blonde, ">
+    <word weight="0.018036072144288578" count="9">fannie</word>
+    <word weight="0.014028056112224449" count="7">wash</word>
+    <word weight="0.01002004008016032" count="5">hair</word>
+    <word weight="0.006012024048096192" count="3">scared</word>
+    <word weight="0.006012024048096192" count="3">roll</word>
+    <word weight="0.006012024048096192" count="3">world</word>
+    <word weight="0.006012024048096192" count="3">eyelashes</word>
+    <word weight="0.006012024048096192" count="3">blonde</word>
+    <phrase weight="0.05128205128205128" count="2">schnitzel noodles</phrase>
+    <phrase weight="0.05128205128205128" count="2">hasn’t learned</phrase>
+    <phrase weight="0.02564102564102564" count="1">blue-eyed blonde merry</phrase>
+    <phrase weight="0.02564102564102564" count="1">knowed whut’s</phrase>
+    <phrase weight="0.02564102564102564" count="1">pass you’d</phrase>
+    <phrase weight="0.02564102564102564" count="1">california u.s.a</phrase>
+    <phrase weight="0.02564102564102564" count="1">useless september</phrase>
+    <phrase weight="0.02564102564102564" count="1">curlin petals</phrase>
+  </topic>
+  <topic id="9" alpha="0.027754348677647103" totalTokens="2041" titles="woods, it's, pretty, sir, henrik, good, you're, festival, ">
+    <word weight="0.021068103870651642" count="43">woods</word>
+    <word weight="0.018618324350808426" count="38">it's</word>
+    <word weight="0.0171484566389025" count="35">pretty</word>
+    <word weight="0.01567858892699657" count="32">sir</word>
+    <word weight="0.013228809407153356" count="27">henrik</word>
+    <word weight="0.012738853503184714" count="26">good</word>
+    <word weight="0.011268985791278784" count="23">you're</word>
+    <word weight="0.010779029887310143" count="22">festival</word>
+    <phrase weight="0.0069605568445475635" count="3">ordinary mothers</phrase>
+    <phrase weight="0.004640371229698376" count="2">honey everything's coming roses</phrase>
+    <phrase weight="0.004640371229698376" count="2">eaves leaves fields</phrase>
+    <phrase weight="0.004640371229698376" count="2">perfect wouldn't</phrase>
+    <phrase weight="0.004640371229698376" count="2">entrancing feel running dancing</phrase>
+    <phrase weight="0.004640371229698376" count="2">woman perfection</phrase>
+    <phrase weight="0.004640371229698376" count="2">boy don’t</phrase>
+    <phrase weight="0.004640371229698376" count="2">face pretty dress pretty</phrase>
+  </topic>
+</topics>

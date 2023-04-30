@@ -1,0 +1,103 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.43297991744410397' totalTokens='5167'>
+    <word rank='1' count='177.0'>love</word>
+    <word rank='2' count='129.0'>i'm</word>
+    <word rank='3' count='125.0'>don't</word>
+    <word rank='4' count='92.0'>night</word>
+    <word rank='5' count='84.0'>tonight</word>
+    <word rank='6' count='71.0'>time</word>
+    <word rank='7' count='70.0'>i've</word>
+    <word rank='8' count='68.0'>day</word>
+  </topic>
+  <topic id='1' alpha='0.029843555469101245' totalTokens='2864'>
+    <word rank='1' count='86.0'>i’m</word>
+    <word rank='2' count='46.0'>it’s</word>
+    <word rank='3' count='37.0'>don’t</word>
+    <word rank='4' count='35.0'>ioway</word>
+    <word rank='5' count='33.0'>girl</word>
+    <word rank='6' count='28.0'>chop</word>
+    <word rank='7' count='26.0'>you’ll</word>
+    <word rank='8' count='24.0'>things</word>
+  </topic>
+  <topic id='2' alpha='0.025742529465051886' totalTokens='282'>
+    <word rank='1' count='4.0'>invented</word>
+    <word rank='2' count='4.0'>bar</word>
+    <word rank='3' count='3.0'>glow</word>
+    <word rank='4' count='3.0'>taught</word>
+    <word rank='5' count='2.0'>shan't</word>
+    <word rank='6' count='2.0'>dialogue</word>
+    <word rank='7' count='2.0'>wand'rin</word>
+    <word rank='8' count='2.0'>joyous</word>
+  </topic>
+  <topic id='3' alpha='0.02921946794538221' totalTokens='3987'>
+    <word rank='1' count='108.0'>you're</word>
+    <word rank='2' count='89.0'>love</word>
+    <word rank='3' count='85.0'>it's</word>
+    <word rank='4' count='60.0'>true</word>
+    <word rank='5' count='57.0'>let's</word>
+    <word rank='6' count='55.0'>hot</word>
+    <word rank='7' count='50.0'>darn</word>
+    <word rank='8' count='48.0'>baby</word>
+  </topic>
+  <topic id='4' alpha='0.029049955479172364' totalTokens='1089'>
+    <word rank='1' count='20.0'>morning</word>
+    <word rank='2' count='15.0'>heaven</word>
+    <word rank='3' count='13.0'>church</word>
+    <word rank='4' count='11.0'>genevieve</word>
+    <word rank='5' count='11.0'>wand'rin</word>
+    <word rank='6' count='11.0'>run</word>
+    <word rank='7' count='11.0'>girls</word>
+    <word rank='8' count='10.0'>ev'ry</word>
+  </topic>
+  <topic id='5' alpha='0.03784787133216408' totalTokens='1397'>
+    <word rank='1' count='47.0'>can't</word>
+    <word rank='2' count='37.0'>hear</word>
+    <word rank='3' count='28.0'>band</word>
+    <word rank='4' count='26.0'>ragtime</word>
+    <word rank='5' count='25.0'>naturally</word>
+    <word rank='6' count='20.0'>happy</word>
+    <word rank='7' count='20.0'>doin</word>
+    <word rank='8' count='17.0'>avenue</word>
+  </topic>
+  <topic id='6' alpha='0.02838388346733781' totalTokens='506'>
+    <word rank='1' count='6.0'>steal</word>
+    <word rank='2' count='6.0'>pure</word>
+    <word rank='3' count='5.0'>miracle</word>
+    <word rank='4' count='5.0'>todd</word>
+    <word rank='5' count='4.0'>grandmother's</word>
+    <word rank='6' count='4.0'>giant</word>
+    <word rank='7' count='4.0'>lay</word>
+    <word rank='8' count='4.0'>i'll</word>
+  </topic>
+  <topic id='7' alpha='0.06036128729962352' totalTokens='373'>
+    <word rank='1' count='5.0'>ago</word>
+    <word rank='2' count='4.0'>they’ve</word>
+    <word rank='3' count='4.0'>rye</word>
+    <word rank='4' count='3.0'>oh-ho</word>
+    <word rank='5' count='3.0'>drool</word>
+    <word rank='6' count='3.0'>green</word>
+    <word rank='7' count='3.0'>dope</word>
+    <word rank='8' count='3.0'>wang</word>
+  </topic>
+  <topic id='8' alpha='0.027869565093065724' totalTokens='499'>
+    <word rank='1' count='9.0'>fannie</word>
+    <word rank='2' count='7.0'>wash</word>
+    <word rank='3' count='5.0'>hair</word>
+    <word rank='4' count='3.0'>scared</word>
+    <word rank='5' count='3.0'>roll</word>
+    <word rank='6' count='3.0'>world</word>
+    <word rank='7' count='3.0'>eyelashes</word>
+    <word rank='8' count='3.0'>blonde</word>
+  </topic>
+  <topic id='9' alpha='0.027754348677647103' totalTokens='2041'>
+    <word rank='1' count='43.0'>woods</word>
+    <word rank='2' count='38.0'>it's</word>
+    <word rank='3' count='35.0'>pretty</word>
+    <word rank='4' count='32.0'>sir</word>
+    <word rank='5' count='27.0'>henrik</word>
+    <word rank='6' count='26.0'>good</word>
+    <word rank='7' count='23.0'>you're</word>
+    <word rank='8' count='22.0'>festival</word>
+  </topic>
+</topicModel>
